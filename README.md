@@ -1,5 +1,5 @@
 
-# 📊 Customer 360 & CLV Analytics Dashboard
+## 📊 Customer 360 & CLV Analytics Dashboard
 
 Synthetic but realistic e-commerce transaction dataset for portfolio analysis.
 
