@@ -1,5 +1,4 @@
-
-## 📊 Customer 360 & CLV Analytics Dashboard
+# 📊 Customer 360 & CLV Analytics Dashboard
 
 Synthetic but realistic e-commerce transaction dataset for portfolio analysis.
 
@@ -19,7 +18,7 @@ Intended workflow: SQL → Python/Pandas → Power BI/DAX.
 
 ---
 
-# 🧹 Data Preparation
+## 🧹 Data Preparation
 
 The dataset was prepared for analysis through the following steps:
 
@@ -557,6 +556,4 @@ The dashboard uses business metrics to measure customer and revenue performance.
 ## 👤 Author
 
 Tushar Sharma
-Aspiring Data Analyst#   c u s t o m e r - 3 6 0 - c l v - a n a l y t i c s 
- 
- 
+Aspiring Data Analyst#
