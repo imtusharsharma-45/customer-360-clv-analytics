@@ -1,0 +1,2001 @@
+product_id,category,brand,base_price
+500001,Grocery,Brand_097,452.49
+500002,Electronics,Brand_083,1288.19
+500003,Fashion,Brand_053,930.73
+500004,Electronics,Brand_011,352.97
+500005,Sports & Fitness,Brand_077,622.03
+500006,Office Supplies,Brand_034,1433.42
+500007,Home & Kitchen,Brand_021,2128.96
+500008,Office Supplies,Brand_074,457.41
+500009,Toys & Games,Brand_084,395.17
+500010,Office Supplies,Brand_062,3887.94
+500011,Grocery,Brand_008,893.43
+500012,Toys & Games,Brand_061,963.91
+500013,Sports & Fitness,Brand_092,516.9
+500014,Toys & Games,Brand_069,1057.66
+500015,Electronics,Brand_027,3257.5
+500016,Grocery,Brand_065,1089.17
+500017,Books,Brand_025,2000.43
+500018,Electronics,Brand_088,919.78
+500019,Home & Kitchen,Brand_085,416.98
+500020,Home & Kitchen,Brand_057,539.14
+500021,Fashion,Brand_014,389.18
+500022,Home & Kitchen,Brand_041,1059.69
+500023,Home & Kitchen,Brand_013,2253.66
+500024,Home & Kitchen,Brand_077,1015.52
+500025,Sports & Fitness,Brand_069,714.48
+500026,Electronics,Brand_026,497.78
+500027,Home & Kitchen,Brand_086,1174.95
+500028,Beauty & Personal Care,Brand_076,355.6
+500029,Fashion,Brand_094,384.45
+500030,Electronics,Brand_028,1767.85
+500031,Office Supplies,Brand_018,730.77
+500032,Beauty & Personal Care,Brand_049,720.04
+500033,Home & Kitchen,Brand_027,792.82
+500034,Sports & Fitness,Brand_074,1551.22
+500035,Toys & Games,Brand_043,1018.94
+500036,Fashion,Brand_063,515.47
+500037,Home & Kitchen,Brand_018,529.58
+500038,Sports & Fitness,Brand_009,777.48
+500039,Fashion,Brand_094,1128.97
+500040,Fashion,Brand_045,876.35
+500041,Office Supplies,Brand_014,819.77
+500042,Office Supplies,Brand_082,931.79
+500043,Sports & Fitness,Brand_014,875.88
+500044,Electronics,Brand_100,501.25
+500045,Sports & Fitness,Brand_039,2064.58
+500046,Office Supplies,Brand_047,626.82
+500047,Office Supplies,Brand_026,991.59
+500048,Home & Kitchen,Brand_009,191.93
+500049,Home & Kitchen,Brand_041,765.87
+500050,Electronics,Brand_037,394.53
+500051,Toys & Games,Brand_045,431.87
+500052,Fashion,Brand_049,5536.04
+500053,Beauty & Personal Care,Brand_064,1085.22
+500054,Beauty & Personal Care,Brand_008,2257.27
+500055,Home & Kitchen,Brand_037,1709.36
+500056,Automotive,Brand_087,1881.5
+500057,Fashion,Brand_096,775.18
+500058,Home & Kitchen,Brand_054,3002.49
+500059,Grocery,Brand_037,1698.35
+500060,Books,Brand_042,928.34
+500061,Grocery,Brand_079,1096.48
+500062,Toys & Games,Brand_040,812.28
+500063,Electronics,Brand_095,935.96
+500064,Electronics,Brand_003,871.05
+500065,Electronics,Brand_061,1198.16
+500066,Grocery,Brand_052,3318.85
+500067,Office Supplies,Brand_046,364.48
+500068,Beauty & Personal Care,Brand_048,2119.98
+500069,Grocery,Brand_016,682.81
+500070,Grocery,Brand_035,2332.37
+500071,Office Supplies,Brand_036,700.86
+500072,Fashion,Brand_066,1226.55
+500073,Home & Kitchen,Brand_060,798.92
+500074,Grocery,Brand_042,245.78
+500075,Toys & Games,Brand_052,3316.37
+500076,Grocery,Brand_058,443.78
+500077,Toys & Games,Brand_005,958.44
+500078,Beauty & Personal Care,Brand_089,408.74
+500079,Books,Brand_090,330.18
+500080,Home & Kitchen,Brand_037,771.77
+500081,Fashion,Brand_077,576.66
+500082,Home & Kitchen,Brand_040,374.57
+500083,Electronics,Brand_007,876.4
+500084,Electronics,Brand_087,296.18
+500085,Books,Brand_027,988.81
+500086,Automotive,Brand_036,818.03
+500087,Beauty & Personal Care,Brand_058,140.06
+500088,Fashion,Brand_044,607.93
+500089,Electronics,Brand_027,1278.83
+500090,Fashion,Brand_081,405.34
+500091,Home & Kitchen,Brand_036,1321.12
+500092,Sports & Fitness,Brand_060,1245.02
+500093,Automotive,Brand_067,419.52
+500094,Fashion,Brand_094,891.75
+500095,Books,Brand_048,1670.93
+500096,Grocery,Brand_048,466.42
+500097,Electronics,Brand_092,771.27
+500098,Beauty & Personal Care,Brand_048,2132.55
+500099,Electronics,Brand_030,473.04
+500100,Fashion,Brand_005,1269.99
+500101,Automotive,Brand_033,400.62
+500102,Fashion,Brand_020,797.65
+500103,Fashion,Brand_031,1258.2
+500104,Home & Kitchen,Brand_054,148.26
+500105,Beauty & Personal Care,Brand_053,602.84
+500106,Office Supplies,Brand_019,1241.89
+500107,Beauty & Personal Care,Brand_047,1066.12
+500108,Grocery,Brand_046,608.27
+500109,Electronics,Brand_005,393.06
+500110,Electronics,Brand_029,1441.94
+500111,Beauty & Personal Care,Brand_073,706.69
+500112,Automotive,Brand_003,1354.79
+500113,Home & Kitchen,Brand_031,1196.99
+500114,Grocery,Brand_048,643.44
+500115,Home & Kitchen,Brand_017,2011.86
+500116,Sports & Fitness,Brand_065,576.33
+500117,Sports & Fitness,Brand_072,2197.85
+500118,Books,Brand_034,2424.46
+500119,Home & Kitchen,Brand_024,1978.28
+500120,Home & Kitchen,Brand_078,786.01
+500121,Automotive,Brand_022,6079.66
+500122,Sports & Fitness,Brand_015,1008.56
+500123,Home & Kitchen,Brand_004,1078.35
+500124,Fashion,Brand_010,885.23
+500125,Electronics,Brand_088,385.7
+500126,Fashion,Brand_094,2377.25
+500127,Fashion,Brand_055,585.87
+500128,Electronics,Brand_093,1793.82
+500129,Fashion,Brand_071,2147.5
+500130,Books,Brand_041,1415.0
+500131,Office Supplies,Brand_072,535.62
+500132,Grocery,Brand_042,696.86
+500133,Fashion,Brand_097,120.85
+500134,Grocery,Brand_086,824.72
+500135,Home & Kitchen,Brand_085,1643.24
+500136,Books,Brand_054,753.15
+500137,Electronics,Brand_052,578.15
+500138,Electronics,Brand_012,719.88
+500139,Books,Brand_066,2239.3
+500140,Home & Kitchen,Brand_012,864.04
+500141,Books,Brand_055,3625.81
+500142,Books,Brand_014,586.6
+500143,Electronics,Brand_048,1059.25
+500144,Beauty & Personal Care,Brand_079,650.24
+500145,Sports & Fitness,Brand_031,4265.26
+500146,Grocery,Brand_061,1029.86
+500147,Toys & Games,Brand_026,4440.19
+500148,Beauty & Personal Care,Brand_030,656.75
+500149,Toys & Games,Brand_019,2830.13
+500150,Beauty & Personal Care,Brand_017,983.28
+500151,Electronics,Brand_038,1685.62
+500152,Sports & Fitness,Brand_013,360.54
+500153,Home & Kitchen,Brand_090,1168.77
+500154,Electronics,Brand_075,403.65
+500155,Home & Kitchen,Brand_023,1091.4
+500156,Toys & Games,Brand_089,288.18
+500157,Automotive,Brand_037,838.68
+500158,Office Supplies,Brand_054,2046.95
+500159,Beauty & Personal Care,Brand_070,1357.04
+500160,Fashion,Brand_078,356.71
+500161,Toys & Games,Brand_001,216.72
+500162,Beauty & Personal Care,Brand_029,1306.49
+500163,Beauty & Personal Care,Brand_034,2946.27
+500164,Home & Kitchen,Brand_059,436.78
+500165,Sports & Fitness,Brand_088,4339.21
+500166,Books,Brand_044,895.63
+500167,Beauty & Personal Care,Brand_047,207.14
+500168,Electronics,Brand_009,279.15
+500169,Grocery,Brand_053,1603.36
+500170,Sports & Fitness,Brand_049,991.85
+500171,Home & Kitchen,Brand_064,2735.48
+500172,Beauty & Personal Care,Brand_085,366.43
+500173,Office Supplies,Brand_057,983.65
+500174,Books,Brand_006,904.58
+500175,Sports & Fitness,Brand_082,808.46
+500176,Books,Brand_048,675.49
+500177,Office Supplies,Brand_049,685.65
+500178,Beauty & Personal Care,Brand_088,1025.95
+500179,Home & Kitchen,Brand_059,1129.27
+500180,Beauty & Personal Care,Brand_080,1087.7
+500181,Toys & Games,Brand_089,2223.61
+500182,Electronics,Brand_050,365.56
+500183,Home & Kitchen,Brand_099,231.28
+500184,Home & Kitchen,Brand_018,1929.7
+500185,Books,Brand_088,443.52
+500186,Books,Brand_085,677.08
+500187,Beauty & Personal Care,Brand_010,568.68
+500188,Home & Kitchen,Brand_016,559.62
+500189,Grocery,Brand_004,301.48
+500190,Electronics,Brand_028,587.13
+500191,Grocery,Brand_100,1464.68
+500192,Home & Kitchen,Brand_013,897.35
+500193,Automotive,Brand_004,1313.93
+500194,Fashion,Brand_046,620.38
+500195,Books,Brand_036,1771.41
+500196,Electronics,Brand_063,614.69
+500197,Home & Kitchen,Brand_061,185.11
+500198,Grocery,Brand_083,1141.23
+500199,Sports & Fitness,Brand_042,1600.28
+500200,Grocery,Brand_047,591.68
+500201,Sports & Fitness,Brand_003,2212.33
+500202,Sports & Fitness,Brand_098,475.5
+500203,Toys & Games,Brand_022,1488.37
+500204,Fashion,Brand_060,3330.83
+500205,Automotive,Brand_089,925.14
+500206,Beauty & Personal Care,Brand_061,759.4
+500207,Beauty & Personal Care,Brand_063,831.42
+500208,Grocery,Brand_018,3052.2
+500209,Electronics,Brand_071,1217.41
+500210,Home & Kitchen,Brand_020,4494.22
+500211,Electronics,Brand_070,1109.69
+500212,Fashion,Brand_058,551.17
+500213,Books,Brand_049,581.01
+500214,Electronics,Brand_073,942.56
+500215,Home & Kitchen,Brand_072,194.69
+500216,Beauty & Personal Care,Brand_021,630.27
+500217,Home & Kitchen,Brand_038,640.85
+500218,Electronics,Brand_049,1077.33
+500219,Home & Kitchen,Brand_016,3861.3
+500220,Toys & Games,Brand_036,937.77
+500221,Grocery,Brand_005,212.81
+500222,Home & Kitchen,Brand_044,453.49
+500223,Home & Kitchen,Brand_021,1095.66
+500224,Electronics,Brand_023,965.01
+500225,Beauty & Personal Care,Brand_082,3043.42
+500226,Beauty & Personal Care,Brand_015,1849.1
+500227,Automotive,Brand_013,1808.01
+500228,Grocery,Brand_033,764.75
+500229,Fashion,Brand_003,2052.34
+500230,Electronics,Brand_087,459.64
+500231,Books,Brand_099,1860.53
+500232,Office Supplies,Brand_081,728.2
+500233,Electronics,Brand_080,303.81
+500234,Toys & Games,Brand_011,1404.34
+500235,Home & Kitchen,Brand_056,2567.15
+500236,Grocery,Brand_009,663.44
+500237,Home & Kitchen,Brand_031,2905.81
+500238,Sports & Fitness,Brand_050,259.94
+500239,Home & Kitchen,Brand_069,366.79
+500240,Sports & Fitness,Brand_028,806.21
+500241,Sports & Fitness,Brand_026,681.52
+500242,Sports & Fitness,Brand_083,545.69
+500243,Books,Brand_023,994.91
+500244,Electronics,Brand_049,605.44
+500245,Grocery,Brand_029,687.57
+500246,Electronics,Brand_086,1109.0
+500247,Books,Brand_054,545.52
+500248,Electronics,Brand_011,831.21
+500249,Fashion,Brand_015,554.6
+500250,Beauty & Personal Care,Brand_098,364.37
+500251,Office Supplies,Brand_095,1595.87
+500252,Books,Brand_077,3239.71
+500253,Electronics,Brand_008,1999.84
+500254,Grocery,Brand_074,1154.22
+500255,Home & Kitchen,Brand_067,556.27
+500256,Home & Kitchen,Brand_095,725.75
+500257,Beauty & Personal Care,Brand_049,1988.55
+500258,Grocery,Brand_048,162.6
+500259,Office Supplies,Brand_064,685.36
+500260,Office Supplies,Brand_015,1560.84
+500261,Home & Kitchen,Brand_075,383.25
+500262,Electronics,Brand_050,1236.37
+500263,Toys & Games,Brand_019,1194.09
+500264,Home & Kitchen,Brand_082,302.37
+500265,Sports & Fitness,Brand_027,960.67
+500266,Office Supplies,Brand_086,566.41
+500267,Home & Kitchen,Brand_028,1229.63
+500268,Beauty & Personal Care,Brand_049,1487.33
+500269,Toys & Games,Brand_044,1213.91
+500270,Books,Brand_074,950.36
+500271,Office Supplies,Brand_019,1117.72
+500272,Books,Brand_025,372.54
+500273,Beauty & Personal Care,Brand_020,879.48
+500274,Toys & Games,Brand_024,495.23
+500275,Grocery,Brand_046,1950.91
+500276,Office Supplies,Brand_059,1502.41
+500277,Fashion,Brand_087,1499.21
+500278,Fashion,Brand_043,3253.59
+500279,Beauty & Personal Care,Brand_041,702.69
+500280,Home & Kitchen,Brand_017,596.24
+500281,Office Supplies,Brand_010,690.35
+500282,Office Supplies,Brand_077,270.62
+500283,Fashion,Brand_064,287.06
+500284,Office Supplies,Brand_054,1434.0
+500285,Beauty & Personal Care,Brand_045,316.09
+500286,Toys & Games,Brand_053,401.9
+500287,Books,Brand_085,833.89
+500288,Grocery,Brand_019,660.65
+500289,Grocery,Brand_050,1748.71
+500290,Books,Brand_025,941.75
+500291,Toys & Games,Brand_011,494.5
+500292,Beauty & Personal Care,Brand_070,1865.19
+500293,Toys & Games,Brand_071,1554.62
+500294,Home & Kitchen,Brand_086,312.36
+500295,Home & Kitchen,Brand_003,1087.45
+500296,Grocery,Brand_018,526.41
+500297,Grocery,Brand_058,516.11
+500298,Automotive,Brand_082,3657.48
+500299,Home & Kitchen,Brand_095,987.92
+500300,Electronics,Brand_079,764.51
+500301,Fashion,Brand_091,959.21
+500302,Automotive,Brand_082,1733.81
+500303,Office Supplies,Brand_032,531.76
+500304,Toys & Games,Brand_059,604.41
+500305,Fashion,Brand_064,1472.77
+500306,Toys & Games,Brand_036,288.62
+500307,Home & Kitchen,Brand_089,1892.16
+500308,Office Supplies,Brand_078,270.02
+500309,Sports & Fitness,Brand_052,748.5
+500310,Beauty & Personal Care,Brand_048,271.31
+500311,Sports & Fitness,Brand_080,407.57
+500312,Grocery,Brand_023,2381.88
+500313,Home & Kitchen,Brand_022,1969.9
+500314,Electronics,Brand_041,2134.28
+500315,Grocery,Brand_013,303.58
+500316,Office Supplies,Brand_046,409.16
+500317,Books,Brand_044,1161.3
+500318,Electronics,Brand_051,1538.99
+500319,Books,Brand_047,494.11
+500320,Electronics,Brand_090,583.01
+500321,Beauty & Personal Care,Brand_028,385.25
+500322,Electronics,Brand_042,3121.53
+500323,Fashion,Brand_074,630.29
+500324,Beauty & Personal Care,Brand_029,921.37
+500325,Electronics,Brand_066,958.27
+500326,Beauty & Personal Care,Brand_097,2062.37
+500327,Books,Brand_038,440.56
+500328,Home & Kitchen,Brand_025,2161.57
+500329,Electronics,Brand_020,344.93
+500330,Sports & Fitness,Brand_002,2157.46
+500331,Grocery,Brand_029,248.62
+500332,Toys & Games,Brand_085,832.12
+500333,Fashion,Brand_026,3045.66
+500334,Grocery,Brand_096,1518.29
+500335,Toys & Games,Brand_096,1234.38
+500336,Books,Brand_069,409.97
+500337,Fashion,Brand_099,518.68
+500338,Electronics,Brand_041,2466.84
+500339,Home & Kitchen,Brand_096,1282.61
+500340,Beauty & Personal Care,Brand_055,1754.75
+500341,Beauty & Personal Care,Brand_009,951.22
+500342,Office Supplies,Brand_084,728.58
+500343,Home & Kitchen,Brand_096,1599.41
+500344,Sports & Fitness,Brand_089,1093.25
+500345,Office Supplies,Brand_042,792.29
+500346,Sports & Fitness,Brand_011,311.65
+500347,Home & Kitchen,Brand_059,1840.56
+500348,Office Supplies,Brand_087,1251.9
+500349,Beauty & Personal Care,Brand_085,571.18
+500350,Electronics,Brand_062,2179.46
+500351,Fashion,Brand_079,1080.58
+500352,Home & Kitchen,Brand_004,1096.57
+500353,Toys & Games,Brand_063,1746.41
+500354,Home & Kitchen,Brand_011,1486.12
+500355,Toys & Games,Brand_075,1121.76
+500356,Electronics,Brand_005,781.3
+500357,Office Supplies,Brand_060,3984.4
+500358,Electronics,Brand_095,519.07
+500359,Office Supplies,Brand_012,1574.78
+500360,Electronics,Brand_043,845.14
+500361,Automotive,Brand_005,1265.76
+500362,Toys & Games,Brand_072,2269.83
+500363,Sports & Fitness,Brand_093,712.45
+500364,Electronics,Brand_001,1413.43
+500365,Books,Brand_055,1098.35
+500366,Sports & Fitness,Brand_080,556.36
+500367,Sports & Fitness,Brand_003,2312.23
+500368,Books,Brand_049,1534.23
+500369,Office Supplies,Brand_013,649.68
+500370,Office Supplies,Brand_093,2059.24
+500371,Fashion,Brand_051,482.43
+500372,Electronics,Brand_053,880.68
+500373,Electronics,Brand_100,652.28
+500374,Grocery,Brand_079,1581.1
+500375,Office Supplies,Brand_032,628.06
+500376,Fashion,Brand_063,1589.63
+500377,Electronics,Brand_030,1405.63
+500378,Beauty & Personal Care,Brand_053,679.23
+500379,Beauty & Personal Care,Brand_082,3549.93
+500380,Office Supplies,Brand_095,514.64
+500381,Books,Brand_096,312.82
+500382,Electronics,Brand_050,1710.38
+500383,Beauty & Personal Care,Brand_090,179.53
+500384,Electronics,Brand_090,2755.23
+500385,Books,Brand_055,971.37
+500386,Books,Brand_004,308.63
+500387,Electronics,Brand_012,441.88
+500388,Beauty & Personal Care,Brand_066,264.23
+500389,Automotive,Brand_084,1199.38
+500390,Toys & Games,Brand_092,332.69
+500391,Sports & Fitness,Brand_025,1311.55
+500392,Fashion,Brand_090,716.07
+500393,Office Supplies,Brand_083,630.1
+500394,Grocery,Brand_049,1318.7
+500395,Office Supplies,Brand_038,1436.59
+500396,Electronics,Brand_048,2125.47
+500397,Home & Kitchen,Brand_068,559.51
+500398,Electronics,Brand_082,880.1
+500399,Toys & Games,Brand_018,558.86
+500400,Books,Brand_034,1017.02
+500401,Home & Kitchen,Brand_013,502.04
+500402,Office Supplies,Brand_094,654.8
+500403,Office Supplies,Brand_041,657.3
+500404,Home & Kitchen,Brand_026,1121.49
+500405,Books,Brand_021,902.0
+500406,Books,Brand_008,1315.7
+500407,Electronics,Brand_048,830.6
+500408,Books,Brand_078,582.65
+500409,Home & Kitchen,Brand_033,1038.84
+500410,Automotive,Brand_041,452.37
+500411,Toys & Games,Brand_064,1379.21
+500412,Automotive,Brand_036,726.54
+500413,Grocery,Brand_074,1049.2
+500414,Home & Kitchen,Brand_033,1061.47
+500415,Beauty & Personal Care,Brand_045,2991.57
+500416,Grocery,Brand_099,1198.21
+500417,Beauty & Personal Care,Brand_084,950.8
+500418,Grocery,Brand_058,535.45
+500419,Beauty & Personal Care,Brand_040,1642.84
+500420,Home & Kitchen,Brand_100,734.9
+500421,Fashion,Brand_047,286.66
+500422,Books,Brand_035,777.5
+500423,Fashion,Brand_060,1039.0
+500424,Books,Brand_042,487.12
+500425,Fashion,Brand_089,823.66
+500426,Grocery,Brand_022,853.02
+500427,Books,Brand_006,863.04
+500428,Sports & Fitness,Brand_044,2271.91
+500429,Fashion,Brand_095,336.54
+500430,Fashion,Brand_007,4137.08
+500431,Electronics,Brand_081,878.11
+500432,Books,Brand_001,1390.69
+500433,Home & Kitchen,Brand_056,990.56
+500434,Toys & Games,Brand_046,246.63
+500435,Toys & Games,Brand_016,407.47
+500436,Fashion,Brand_075,607.4
+500437,Toys & Games,Brand_018,1896.35
+500438,Books,Brand_044,318.67
+500439,Electronics,Brand_056,473.71
+500440,Grocery,Brand_052,1018.45
+500441,Office Supplies,Brand_004,1283.1
+500442,Electronics,Brand_045,1254.43
+500443,Home & Kitchen,Brand_066,430.26
+500444,Sports & Fitness,Brand_053,271.48
+500445,Fashion,Brand_074,1348.42
+500446,Books,Brand_078,2636.58
+500447,Sports & Fitness,Brand_018,694.66
+500448,Grocery,Brand_081,381.41
+500449,Electronics,Brand_090,651.96
+500450,Fashion,Brand_084,1209.48
+500451,Toys & Games,Brand_086,755.62
+500452,Beauty & Personal Care,Brand_022,2585.8
+500453,Fashion,Brand_066,1801.05
+500454,Electronics,Brand_046,1033.44
+500455,Home & Kitchen,Brand_099,207.82
+500456,Fashion,Brand_084,535.5
+500457,Beauty & Personal Care,Brand_017,596.68
+500458,Grocery,Brand_095,514.11
+500459,Sports & Fitness,Brand_070,1038.48
+500460,Automotive,Brand_055,1054.66
+500461,Toys & Games,Brand_045,256.43
+500462,Home & Kitchen,Brand_050,1645.57
+500463,Electronics,Brand_078,910.95
+500464,Toys & Games,Brand_077,1176.88
+500465,Beauty & Personal Care,Brand_056,1573.43
+500466,Beauty & Personal Care,Brand_100,506.32
+500467,Electronics,Brand_024,2313.63
+500468,Books,Brand_043,809.2
+500469,Home & Kitchen,Brand_060,2798.41
+500470,Home & Kitchen,Brand_017,460.33
+500471,Fashion,Brand_050,2646.73
+500472,Grocery,Brand_084,456.87
+500473,Home & Kitchen,Brand_068,6087.43
+500474,Grocery,Brand_072,440.77
+500475,Fashion,Brand_017,1987.9
+500476,Fashion,Brand_015,685.81
+500477,Beauty & Personal Care,Brand_045,1538.65
+500478,Electronics,Brand_033,873.06
+500479,Beauty & Personal Care,Brand_002,397.01
+500480,Automotive,Brand_056,110.47
+500481,Electronics,Brand_076,5902.21
+500482,Office Supplies,Brand_074,950.67
+500483,Electronics,Brand_011,99.0
+500484,Beauty & Personal Care,Brand_079,1129.3
+500485,Sports & Fitness,Brand_039,1509.58
+500486,Toys & Games,Brand_016,526.41
+500487,Electronics,Brand_048,529.07
+500488,Electronics,Brand_022,886.71
+500489,Books,Brand_068,2217.95
+500490,Home & Kitchen,Brand_075,970.07
+500491,Books,Brand_073,2696.78
+500492,Toys & Games,Brand_012,2102.35
+500493,Electronics,Brand_035,758.09
+500494,Toys & Games,Brand_050,277.13
+500495,Electronics,Brand_099,759.3
+500496,Automotive,Brand_055,1335.76
+500497,Office Supplies,Brand_066,941.35
+500498,Books,Brand_034,1448.4
+500499,Office Supplies,Brand_030,1719.79
+500500,Toys & Games,Brand_080,1340.15
+500501,Electronics,Brand_084,732.09
+500502,Electronics,Brand_006,1329.17
+500503,Electronics,Brand_054,4812.67
+500504,Fashion,Brand_078,294.41
+500505,Books,Brand_016,1297.07
+500506,Fashion,Brand_065,3556.02
+500507,Books,Brand_048,372.95
+500508,Fashion,Brand_051,1906.87
+500509,Electronics,Brand_060,2107.87
+500510,Home & Kitchen,Brand_088,297.31
+500511,Office Supplies,Brand_009,1535.58
+500512,Beauty & Personal Care,Brand_021,734.29
+500513,Beauty & Personal Care,Brand_035,860.11
+500514,Electronics,Brand_081,705.34
+500515,Office Supplies,Brand_060,2408.87
+500516,Home & Kitchen,Brand_019,827.41
+500517,Books,Brand_003,635.82
+500518,Electronics,Brand_100,643.94
+500519,Electronics,Brand_014,696.91
+500520,Grocery,Brand_004,400.51
+500521,Books,Brand_041,631.62
+500522,Books,Brand_056,983.04
+500523,Home & Kitchen,Brand_026,1218.87
+500524,Office Supplies,Brand_017,2220.36
+500525,Sports & Fitness,Brand_009,1078.29
+500526,Office Supplies,Brand_041,630.52
+500527,Home & Kitchen,Brand_096,421.62
+500528,Fashion,Brand_015,1122.44
+500529,Beauty & Personal Care,Brand_058,824.16
+500530,Grocery,Brand_020,844.85
+500531,Grocery,Brand_068,1095.86
+500532,Fashion,Brand_007,1328.67
+500533,Electronics,Brand_021,1101.8
+500534,Home & Kitchen,Brand_001,791.96
+500535,Electronics,Brand_065,493.42
+500536,Toys & Games,Brand_072,568.39
+500537,Home & Kitchen,Brand_018,1700.35
+500538,Electronics,Brand_046,655.05
+500539,Beauty & Personal Care,Brand_030,327.95
+500540,Electronics,Brand_005,2147.53
+500541,Office Supplies,Brand_004,443.91
+500542,Beauty & Personal Care,Brand_094,924.11
+500543,Office Supplies,Brand_065,1300.84
+500544,Books,Brand_067,902.18
+500545,Sports & Fitness,Brand_030,140.3
+500546,Fashion,Brand_027,1206.24
+500547,Books,Brand_080,2433.88
+500548,Books,Brand_044,1623.43
+500549,Electronics,Brand_011,182.98
+500550,Automotive,Brand_049,4437.42
+500551,Beauty & Personal Care,Brand_053,332.95
+500552,Beauty & Personal Care,Brand_057,400.85
+500553,Fashion,Brand_054,1617.77
+500554,Books,Brand_086,1263.99
+500555,Beauty & Personal Care,Brand_025,955.89
+500556,Beauty & Personal Care,Brand_059,587.19
+500557,Electronics,Brand_089,2441.91
+500558,Fashion,Brand_098,873.84
+500559,Electronics,Brand_097,278.11
+500560,Toys & Games,Brand_073,2267.92
+500561,Beauty & Personal Care,Brand_011,1060.88
+500562,Office Supplies,Brand_099,2076.94
+500563,Books,Brand_004,1382.72
+500564,Grocery,Brand_056,5410.58
+500565,Office Supplies,Brand_045,713.31
+500566,Home & Kitchen,Brand_068,910.93
+500567,Sports & Fitness,Brand_079,1544.21
+500568,Electronics,Brand_074,716.62
+500569,Electronics,Brand_023,1643.15
+500570,Beauty & Personal Care,Brand_076,99.0
+500571,Books,Brand_076,852.19
+500572,Toys & Games,Brand_003,833.1
+500573,Home & Kitchen,Brand_064,810.77
+500574,Grocery,Brand_013,466.24
+500575,Home & Kitchen,Brand_057,1775.77
+500576,Electronics,Brand_023,616.5
+500577,Electronics,Brand_036,1045.87
+500578,Sports & Fitness,Brand_028,875.26
+500579,Fashion,Brand_087,1309.85
+500580,Home & Kitchen,Brand_091,2632.31
+500581,Electronics,Brand_080,1041.82
+500582,Sports & Fitness,Brand_073,1691.62
+500583,Toys & Games,Brand_037,1003.3
+500584,Electronics,Brand_015,615.78
+500585,Grocery,Brand_057,809.35
+500586,Books,Brand_043,727.59
+500587,Fashion,Brand_029,1378.18
+500588,Electronics,Brand_025,974.95
+500589,Office Supplies,Brand_017,496.06
+500590,Fashion,Brand_083,761.98
+500591,Beauty & Personal Care,Brand_033,286.56
+500592,Toys & Games,Brand_092,783.63
+500593,Toys & Games,Brand_067,900.88
+500594,Grocery,Brand_017,3493.75
+500595,Toys & Games,Brand_007,2474.35
+500596,Electronics,Brand_042,414.4
+500597,Grocery,Brand_009,1047.04
+500598,Beauty & Personal Care,Brand_096,1060.9
+500599,Toys & Games,Brand_091,757.15
+500600,Beauty & Personal Care,Brand_066,794.23
+500601,Electronics,Brand_030,690.17
+500602,Fashion,Brand_087,3666.26
+500603,Grocery,Brand_065,658.69
+500604,Fashion,Brand_036,1162.23
+500605,Grocery,Brand_088,135.05
+500606,Electronics,Brand_021,1669.15
+500607,Home & Kitchen,Brand_057,2187.66
+500608,Sports & Fitness,Brand_070,408.86
+500609,Beauty & Personal Care,Brand_091,613.07
+500610,Books,Brand_014,1262.72
+500611,Office Supplies,Brand_029,913.23
+500612,Books,Brand_084,1276.88
+500613,Fashion,Brand_050,725.57
+500614,Sports & Fitness,Brand_076,3640.38
+500615,Automotive,Brand_078,544.62
+500616,Books,Brand_031,6775.55
+500617,Toys & Games,Brand_034,2284.35
+500618,Beauty & Personal Care,Brand_050,1679.89
+500619,Grocery,Brand_003,412.42
+500620,Electronics,Brand_080,1780.51
+500621,Grocery,Brand_012,1415.66
+500622,Automotive,Brand_094,183.59
+500623,Automotive,Brand_078,313.86
+500624,Electronics,Brand_036,1176.87
+500625,Toys & Games,Brand_008,814.37
+500626,Electronics,Brand_079,610.96
+500627,Fashion,Brand_045,2021.52
+500628,Books,Brand_020,463.85
+500629,Fashion,Brand_043,639.68
+500630,Beauty & Personal Care,Brand_091,553.98
+500631,Books,Brand_069,1319.52
+500632,Books,Brand_069,247.84
+500633,Sports & Fitness,Brand_052,619.64
+500634,Fashion,Brand_016,247.23
+500635,Grocery,Brand_095,711.76
+500636,Fashion,Brand_074,1547.94
+500637,Electronics,Brand_052,1568.8
+500638,Fashion,Brand_073,521.49
+500639,Grocery,Brand_037,1342.63
+500640,Home & Kitchen,Brand_075,783.31
+500641,Electronics,Brand_097,2497.91
+500642,Automotive,Brand_035,816.41
+500643,Toys & Games,Brand_001,99.0
+500644,Sports & Fitness,Brand_074,1760.59
+500645,Grocery,Brand_086,637.83
+500646,Office Supplies,Brand_083,732.71
+500647,Sports & Fitness,Brand_098,1157.87
+500648,Home & Kitchen,Brand_035,309.16
+500649,Books,Brand_092,951.83
+500650,Automotive,Brand_021,1343.81
+500651,Books,Brand_059,1182.57
+500652,Electronics,Brand_089,574.33
+500653,Automotive,Brand_092,1893.81
+500654,Grocery,Brand_063,425.93
+500655,Fashion,Brand_055,562.99
+500656,Office Supplies,Brand_047,812.73
+500657,Grocery,Brand_087,1123.27
+500658,Toys & Games,Brand_088,705.56
+500659,Office Supplies,Brand_024,2261.62
+500660,Electronics,Brand_014,1123.11
+500661,Grocery,Brand_082,952.55
+500662,Beauty & Personal Care,Brand_082,1093.89
+500663,Toys & Games,Brand_010,1559.43
+500664,Automotive,Brand_050,1078.12
+500665,Toys & Games,Brand_051,231.66
+500666,Grocery,Brand_005,2037.6
+500667,Grocery,Brand_067,984.52
+500668,Home & Kitchen,Brand_098,1504.23
+500669,Fashion,Brand_022,663.77
+500670,Electronics,Brand_078,228.69
+500671,Toys & Games,Brand_009,162.91
+500672,Books,Brand_022,443.24
+500673,Sports & Fitness,Brand_057,1326.59
+500674,Home & Kitchen,Brand_093,2382.28
+500675,Sports & Fitness,Brand_089,1128.76
+500676,Fashion,Brand_094,408.8
+500677,Office Supplies,Brand_099,499.85
+500678,Toys & Games,Brand_081,2497.34
+500679,Fashion,Brand_037,336.74
+500680,Toys & Games,Brand_013,4353.45
+500681,Home & Kitchen,Brand_083,3675.42
+500682,Electronics,Brand_019,4462.37
+500683,Books,Brand_053,1197.42
+500684,Grocery,Brand_076,696.63
+500685,Electronics,Brand_004,1175.74
+500686,Home & Kitchen,Brand_092,1779.05
+500687,Fashion,Brand_031,552.42
+500688,Electronics,Brand_022,394.06
+500689,Fashion,Brand_038,727.38
+500690,Fashion,Brand_047,504.3
+500691,Office Supplies,Brand_046,2282.58
+500692,Beauty & Personal Care,Brand_016,566.84
+500693,Home & Kitchen,Brand_019,966.93
+500694,Electronics,Brand_048,1881.22
+500695,Electronics,Brand_023,2350.25
+500696,Grocery,Brand_065,1052.38
+500697,Fashion,Brand_090,1200.65
+500698,Home & Kitchen,Brand_002,419.75
+500699,Office Supplies,Brand_004,1938.53
+500700,Grocery,Brand_065,2321.66
+500701,Electronics,Brand_003,221.32
+500702,Home & Kitchen,Brand_064,3376.53
+500703,Toys & Games,Brand_050,532.14
+500704,Books,Brand_046,1405.81
+500705,Office Supplies,Brand_061,953.91
+500706,Electronics,Brand_090,860.16
+500707,Grocery,Brand_013,770.86
+500708,Electronics,Brand_014,427.51
+500709,Beauty & Personal Care,Brand_070,1333.1
+500710,Grocery,Brand_006,726.23
+500711,Grocery,Brand_043,337.08
+500712,Electronics,Brand_050,414.11
+500713,Home & Kitchen,Brand_040,341.4
+500714,Grocery,Brand_054,607.26
+500715,Electronics,Brand_012,1294.94
+500716,Beauty & Personal Care,Brand_027,527.98
+500717,Home & Kitchen,Brand_001,1870.53
+500718,Electronics,Brand_097,823.02
+500719,Toys & Games,Brand_084,724.4
+500720,Electronics,Brand_026,911.39
+500721,Fashion,Brand_004,2562.56
+500722,Books,Brand_028,321.79
+500723,Electronics,Brand_096,3117.14
+500724,Books,Brand_082,1849.21
+500725,Beauty & Personal Care,Brand_066,885.5
+500726,Toys & Games,Brand_093,2185.64
+500727,Grocery,Brand_018,706.65
+500728,Grocery,Brand_054,1115.05
+500729,Beauty & Personal Care,Brand_080,599.64
+500730,Toys & Games,Brand_002,1857.99
+500731,Books,Brand_044,529.51
+500732,Beauty & Personal Care,Brand_036,865.99
+500733,Electronics,Brand_018,1497.79
+500734,Electronics,Brand_023,1975.42
+500735,Home & Kitchen,Brand_097,486.16
+500736,Home & Kitchen,Brand_052,1583.27
+500737,Office Supplies,Brand_009,430.91
+500738,Office Supplies,Brand_069,179.41
+500739,Electronics,Brand_060,513.55
+500740,Office Supplies,Brand_040,1683.1
+500741,Grocery,Brand_040,891.79
+500742,Fashion,Brand_054,602.54
+500743,Office Supplies,Brand_093,938.24
+500744,Grocery,Brand_076,915.25
+500745,Sports & Fitness,Brand_041,1434.85
+500746,Home & Kitchen,Brand_025,268.7
+500747,Home & Kitchen,Brand_011,833.5
+500748,Automotive,Brand_020,987.92
+500749,Home & Kitchen,Brand_014,323.23
+500750,Electronics,Brand_081,319.92
+500751,Home & Kitchen,Brand_058,684.62
+500752,Fashion,Brand_004,905.77
+500753,Beauty & Personal Care,Brand_093,908.17
+500754,Office Supplies,Brand_016,592.96
+500755,Fashion,Brand_065,575.01
+500756,Automotive,Brand_002,669.15
+500757,Sports & Fitness,Brand_059,1125.84
+500758,Fashion,Brand_056,2288.98
+500759,Home & Kitchen,Brand_091,170.22
+500760,Home & Kitchen,Brand_061,1436.04
+500761,Toys & Games,Brand_049,828.01
+500762,Grocery,Brand_054,1335.0
+500763,Fashion,Brand_064,2189.77
+500764,Automotive,Brand_042,510.84
+500765,Toys & Games,Brand_072,1827.35
+500766,Electronics,Brand_053,351.38
+500767,Sports & Fitness,Brand_097,990.39
+500768,Grocery,Brand_020,750.33
+500769,Toys & Games,Brand_073,931.79
+500770,Electronics,Brand_083,428.64
+500771,Home & Kitchen,Brand_072,1248.95
+500772,Fashion,Brand_099,2957.53
+500773,Home & Kitchen,Brand_044,434.2
+500774,Electronics,Brand_055,1037.56
+500775,Books,Brand_016,1710.09
+500776,Fashion,Brand_038,720.42
+500777,Electronics,Brand_016,2496.61
+500778,Sports & Fitness,Brand_080,652.05
+500779,Electronics,Brand_079,824.83
+500780,Beauty & Personal Care,Brand_020,427.32
+500781,Grocery,Brand_081,989.64
+500782,Automotive,Brand_033,902.04
+500783,Home & Kitchen,Brand_073,1450.0
+500784,Toys & Games,Brand_094,558.49
+500785,Automotive,Brand_083,539.64
+500786,Sports & Fitness,Brand_019,1273.17
+500787,Office Supplies,Brand_019,2566.47
+500788,Home & Kitchen,Brand_012,1442.53
+500789,Electronics,Brand_085,3597.35
+500790,Toys & Games,Brand_055,1364.95
+500791,Fashion,Brand_016,1328.58
+500792,Beauty & Personal Care,Brand_059,1497.97
+500793,Electronics,Brand_053,2747.71
+500794,Electronics,Brand_060,2276.9
+500795,Electronics,Brand_064,398.91
+500796,Home & Kitchen,Brand_017,1640.62
+500797,Office Supplies,Brand_039,1098.18
+500798,Home & Kitchen,Brand_073,778.11
+500799,Toys & Games,Brand_091,238.1
+500800,Electronics,Brand_025,283.52
+500801,Beauty & Personal Care,Brand_058,684.74
+500802,Automotive,Brand_095,300.05
+500803,Home & Kitchen,Brand_061,695.46
+500804,Home & Kitchen,Brand_023,1537.87
+500805,Toys & Games,Brand_059,582.12
+500806,Electronics,Brand_002,958.14
+500807,Electronics,Brand_049,403.4
+500808,Office Supplies,Brand_057,1126.05
+500809,Fashion,Brand_006,1317.51
+500810,Books,Brand_021,309.57
+500811,Electronics,Brand_099,512.08
+500812,Home & Kitchen,Brand_063,347.94
+500813,Fashion,Brand_046,1318.57
+500814,Books,Brand_023,1017.8
+500815,Home & Kitchen,Brand_013,867.06
+500816,Automotive,Brand_043,817.44
+500817,Grocery,Brand_055,1146.56
+500818,Sports & Fitness,Brand_018,1163.9
+500819,Fashion,Brand_081,620.62
+500820,Sports & Fitness,Brand_043,558.75
+500821,Grocery,Brand_006,861.05
+500822,Electronics,Brand_014,780.62
+500823,Toys & Games,Brand_087,4221.33
+500824,Fashion,Brand_034,674.84
+500825,Office Supplies,Brand_038,1118.39
+500826,Office Supplies,Brand_020,1276.45
+500827,Electronics,Brand_081,2572.9
+500828,Beauty & Personal Care,Brand_082,489.8
+500829,Fashion,Brand_025,2458.07
+500830,Fashion,Brand_073,805.81
+500831,Toys & Games,Brand_046,5874.66
+500832,Electronics,Brand_017,1181.27
+500833,Books,Brand_080,358.06
+500834,Office Supplies,Brand_009,776.29
+500835,Office Supplies,Brand_088,2451.85
+500836,Electronics,Brand_003,956.76
+500837,Office Supplies,Brand_033,860.64
+500838,Electronics,Brand_023,1543.25
+500839,Fashion,Brand_024,694.82
+500840,Home & Kitchen,Brand_049,768.43
+500841,Sports & Fitness,Brand_076,443.14
+500842,Electronics,Brand_040,3291.21
+500843,Home & Kitchen,Brand_052,359.76
+500844,Beauty & Personal Care,Brand_098,1021.98
+500845,Automotive,Brand_050,1289.88
+500846,Sports & Fitness,Brand_080,890.83
+500847,Grocery,Brand_039,351.43
+500848,Books,Brand_008,425.52
+500849,Beauty & Personal Care,Brand_026,1331.79
+500850,Electronics,Brand_016,501.44
+500851,Electronics,Brand_091,190.26
+500852,Fashion,Brand_003,1203.07
+500853,Office Supplies,Brand_083,467.79
+500854,Home & Kitchen,Brand_014,1444.92
+500855,Books,Brand_016,773.7
+500856,Toys & Games,Brand_053,746.23
+500857,Automotive,Brand_009,935.96
+500858,Home & Kitchen,Brand_008,383.19
+500859,Office Supplies,Brand_078,484.59
+500860,Sports & Fitness,Brand_006,740.59
+500861,Fashion,Brand_060,381.51
+500862,Grocery,Brand_012,1537.26
+500863,Home & Kitchen,Brand_009,714.7
+500864,Toys & Games,Brand_067,303.48
+500865,Books,Brand_040,591.77
+500866,Grocery,Brand_002,970.97
+500867,Toys & Games,Brand_069,644.08
+500868,Sports & Fitness,Brand_097,1214.71
+500869,Electronics,Brand_057,1384.26
+500870,Home & Kitchen,Brand_039,5451.63
+500871,Automotive,Brand_085,2133.2
+500872,Books,Brand_034,263.78
+500873,Automotive,Brand_062,686.92
+500874,Beauty & Personal Care,Brand_048,736.87
+500875,Fashion,Brand_073,1385.34
+500876,Toys & Games,Brand_052,446.84
+500877,Grocery,Brand_049,604.23
+500878,Beauty & Personal Care,Brand_043,353.93
+500879,Electronics,Brand_030,572.89
+500880,Automotive,Brand_049,589.14
+500881,Grocery,Brand_007,711.69
+500882,Fashion,Brand_034,369.63
+500883,Sports & Fitness,Brand_008,1879.79
+500884,Home & Kitchen,Brand_033,1282.49
+500885,Fashion,Brand_036,303.62
+500886,Home & Kitchen,Brand_003,917.7
+500887,Home & Kitchen,Brand_030,278.23
+500888,Toys & Games,Brand_068,2462.88
+500889,Beauty & Personal Care,Brand_097,3019.89
+500890,Toys & Games,Brand_062,863.15
+500891,Fashion,Brand_072,474.81
+500892,Electronics,Brand_067,546.86
+500893,Beauty & Personal Care,Brand_095,640.4
+500894,Electronics,Brand_095,830.7
+500895,Books,Brand_012,2515.55
+500896,Automotive,Brand_048,1842.9
+500897,Grocery,Brand_091,1864.31
+500898,Grocery,Brand_089,1022.83
+500899,Toys & Games,Brand_054,378.87
+500900,Grocery,Brand_045,505.15
+500901,Sports & Fitness,Brand_006,941.93
+500902,Grocery,Brand_048,365.61
+500903,Fashion,Brand_051,1130.46
+500904,Electronics,Brand_064,1646.22
+500905,Grocery,Brand_053,1354.79
+500906,Grocery,Brand_022,1314.6
+500907,Home & Kitchen,Brand_097,222.0
+500908,Office Supplies,Brand_022,2446.49
+500909,Electronics,Brand_039,277.79
+500910,Grocery,Brand_051,802.58
+500911,Office Supplies,Brand_030,1431.25
+500912,Beauty & Personal Care,Brand_007,1177.73
+500913,Automotive,Brand_062,345.16
+500914,Toys & Games,Brand_024,394.91
+500915,Grocery,Brand_088,1116.21
+500916,Office Supplies,Brand_080,1320.19
+500917,Books,Brand_043,392.29
+500918,Fashion,Brand_047,1208.14
+500919,Books,Brand_095,288.86
+500920,Fashion,Brand_003,1437.54
+500921,Beauty & Personal Care,Brand_038,463.83
+500922,Electronics,Brand_007,956.02
+500923,Beauty & Personal Care,Brand_014,842.9
+500924,Toys & Games,Brand_092,2149.28
+500925,Office Supplies,Brand_011,1079.22
+500926,Office Supplies,Brand_096,574.25
+500927,Home & Kitchen,Brand_079,1178.61
+500928,Sports & Fitness,Brand_065,4488.19
+500929,Sports & Fitness,Brand_075,1567.89
+500930,Home & Kitchen,Brand_019,860.94
+500931,Sports & Fitness,Brand_012,481.63
+500932,Beauty & Personal Care,Brand_037,566.81
+500933,Office Supplies,Brand_077,1498.75
+500934,Home & Kitchen,Brand_031,463.15
+500935,Toys & Games,Brand_018,901.82
+500936,Automotive,Brand_079,2645.48
+500937,Grocery,Brand_064,1007.46
+500938,Home & Kitchen,Brand_054,400.63
+500939,Home & Kitchen,Brand_042,4609.07
+500940,Office Supplies,Brand_078,3375.27
+500941,Electronics,Brand_074,1310.65
+500942,Electronics,Brand_037,2343.06
+500943,Office Supplies,Brand_013,736.68
+500944,Grocery,Brand_087,1549.57
+500945,Grocery,Brand_014,655.07
+500946,Home & Kitchen,Brand_043,325.65
+500947,Fashion,Brand_090,6287.61
+500948,Toys & Games,Brand_042,313.4
+500949,Beauty & Personal Care,Brand_084,1125.03
+500950,Home & Kitchen,Brand_049,1115.21
+500951,Electronics,Brand_075,1325.31
+500952,Books,Brand_060,841.45
+500953,Home & Kitchen,Brand_029,848.07
+500954,Toys & Games,Brand_090,998.45
+500955,Home & Kitchen,Brand_047,1289.87
+500956,Electronics,Brand_046,898.77
+500957,Office Supplies,Brand_066,855.02
+500958,Office Supplies,Brand_094,334.14
+500959,Books,Brand_088,4075.12
+500960,Office Supplies,Brand_040,1345.03
+500961,Home & Kitchen,Brand_024,1052.66
+500962,Fashion,Brand_033,563.43
+500963,Home & Kitchen,Brand_027,423.98
+500964,Fashion,Brand_030,1715.37
+500965,Grocery,Brand_044,798.31
+500966,Toys & Games,Brand_003,1433.96
+500967,Electronics,Brand_054,326.45
+500968,Beauty & Personal Care,Brand_085,2871.35
+500969,Office Supplies,Brand_044,1769.46
+500970,Sports & Fitness,Brand_008,846.91
+500971,Home & Kitchen,Brand_039,1278.08
+500972,Beauty & Personal Care,Brand_034,1568.93
+500973,Beauty & Personal Care,Brand_060,330.19
+500974,Fashion,Brand_026,3167.71
+500975,Fashion,Brand_031,1293.16
+500976,Fashion,Brand_075,530.76
+500977,Fashion,Brand_018,395.42
+500978,Fashion,Brand_094,1886.95
+500979,Electronics,Brand_030,1054.44
+500980,Electronics,Brand_082,1292.52
+500981,Beauty & Personal Care,Brand_009,918.18
+500982,Automotive,Brand_032,424.26
+500983,Grocery,Brand_038,1317.98
+500984,Electronics,Brand_046,776.07
+500985,Fashion,Brand_010,885.48
+500986,Sports & Fitness,Brand_025,5351.58
+500987,Fashion,Brand_088,1727.1
+500988,Books,Brand_093,1803.47
+500989,Office Supplies,Brand_045,6924.26
+500990,Electronics,Brand_012,1200.9
+500991,Fashion,Brand_028,984.54
+500992,Fashion,Brand_096,540.77
+500993,Sports & Fitness,Brand_092,640.97
+500994,Home & Kitchen,Brand_082,193.85
+500995,Books,Brand_087,1628.17
+500996,Electronics,Brand_072,348.0
+500997,Grocery,Brand_063,1771.26
+500998,Books,Brand_078,871.42
+500999,Beauty & Personal Care,Brand_065,990.73
+501000,Office Supplies,Brand_034,871.85
+501001,Toys & Games,Brand_065,2545.16
+501002,Fashion,Brand_030,2229.37
+501003,Office Supplies,Brand_063,880.71
+501004,Toys & Games,Brand_039,458.58
+501005,Electronics,Brand_049,1799.59
+501006,Sports & Fitness,Brand_019,433.31
+501007,Sports & Fitness,Brand_096,280.41
+501008,Books,Brand_075,1307.87
+501009,Office Supplies,Brand_011,2244.55
+501010,Fashion,Brand_048,664.2
+501011,Electronics,Brand_046,1219.0
+501012,Fashion,Brand_089,658.94
+501013,Grocery,Brand_076,1546.72
+501014,Beauty & Personal Care,Brand_088,2046.05
+501015,Electronics,Brand_047,738.96
+501016,Beauty & Personal Care,Brand_016,416.42
+501017,Books,Brand_073,301.76
+501018,Electronics,Brand_022,1802.02
+501019,Beauty & Personal Care,Brand_064,383.74
+501020,Electronics,Brand_042,1189.65
+501021,Fashion,Brand_035,1612.35
+501022,Electronics,Brand_012,617.96
+501023,Electronics,Brand_081,794.52
+501024,Books,Brand_069,1903.93
+501025,Electronics,Brand_035,490.9
+501026,Electronics,Brand_074,454.92
+501027,Sports & Fitness,Brand_099,754.91
+501028,Electronics,Brand_073,2346.85
+501029,Electronics,Brand_095,3012.25
+501030,Fashion,Brand_048,835.73
+501031,Beauty & Personal Care,Brand_038,527.58
+501032,Sports & Fitness,Brand_085,1999.16
+501033,Office Supplies,Brand_067,257.35
+501034,Fashion,Brand_061,1083.66
+501035,Sports & Fitness,Brand_065,870.84
+501036,Automotive,Brand_100,2375.03
+501037,Fashion,Brand_069,2562.3
+501038,Grocery,Brand_082,443.86
+501039,Sports & Fitness,Brand_004,1020.61
+501040,Books,Brand_073,586.66
+501041,Office Supplies,Brand_032,722.27
+501042,Electronics,Brand_013,1430.01
+501043,Automotive,Brand_028,700.1
+501044,Fashion,Brand_084,1040.9
+501045,Sports & Fitness,Brand_082,1845.21
+501046,Fashion,Brand_031,2803.9
+501047,Home & Kitchen,Brand_020,1117.56
+501048,Electronics,Brand_042,983.11
+501049,Office Supplies,Brand_034,392.26
+501050,Books,Brand_047,2956.45
+501051,Automotive,Brand_079,1305.28
+501052,Home & Kitchen,Brand_034,996.81
+501053,Home & Kitchen,Brand_018,959.28
+501054,Beauty & Personal Care,Brand_011,1179.55
+501055,Home & Kitchen,Brand_069,1605.58
+501056,Fashion,Brand_020,1761.74
+501057,Office Supplies,Brand_022,3012.41
+501058,Automotive,Brand_081,1079.67
+501059,Fashion,Brand_010,3354.46
+501060,Beauty & Personal Care,Brand_066,1989.6
+501061,Sports & Fitness,Brand_002,860.31
+501062,Sports & Fitness,Brand_095,257.72
+501063,Books,Brand_072,959.65
+501064,Fashion,Brand_083,2896.48
+501065,Electronics,Brand_067,503.18
+501066,Electronics,Brand_041,957.42
+501067,Office Supplies,Brand_100,1018.73
+501068,Grocery,Brand_079,1824.37
+501069,Office Supplies,Brand_009,672.86
+501070,Beauty & Personal Care,Brand_058,468.88
+501071,Fashion,Brand_055,1380.08
+501072,Beauty & Personal Care,Brand_029,515.35
+501073,Automotive,Brand_046,227.19
+501074,Home & Kitchen,Brand_098,3578.41
+501075,Books,Brand_009,1803.83
+501076,Home & Kitchen,Brand_093,3695.74
+501077,Electronics,Brand_071,1733.51
+501078,Electronics,Brand_012,1499.17
+501079,Fashion,Brand_031,1187.43
+501080,Toys & Games,Brand_084,782.8
+501081,Office Supplies,Brand_071,1321.44
+501082,Books,Brand_008,594.35
+501083,Fashion,Brand_015,403.62
+501084,Grocery,Brand_093,701.5
+501085,Electronics,Brand_016,2370.87
+501086,Toys & Games,Brand_063,357.13
+501087,Grocery,Brand_100,361.41
+501088,Fashion,Brand_017,1402.31
+501089,Electronics,Brand_005,659.24
+501090,Home & Kitchen,Brand_082,1295.32
+501091,Beauty & Personal Care,Brand_095,1890.86
+501092,Office Supplies,Brand_052,1272.25
+501093,Books,Brand_024,560.15
+501094,Fashion,Brand_006,2355.7
+501095,Fashion,Brand_092,1570.24
+501096,Grocery,Brand_080,918.29
+501097,Beauty & Personal Care,Brand_090,885.55
+501098,Electronics,Brand_079,1191.41
+501099,Books,Brand_044,712.23
+501100,Beauty & Personal Care,Brand_049,264.8
+501101,Beauty & Personal Care,Brand_039,1579.74
+501102,Fashion,Brand_074,1510.89
+501103,Home & Kitchen,Brand_011,160.23
+501104,Office Supplies,Brand_005,1320.02
+501105,Toys & Games,Brand_097,3360.21
+501106,Office Supplies,Brand_032,386.32
+501107,Office Supplies,Brand_004,851.86
+501108,Beauty & Personal Care,Brand_068,785.18
+501109,Beauty & Personal Care,Brand_040,3126.61
+501110,Books,Brand_024,2086.21
+501111,Electronics,Brand_044,465.72
+501112,Office Supplies,Brand_046,1163.26
+501113,Electronics,Brand_062,5061.4
+501114,Fashion,Brand_094,563.33
+501115,Books,Brand_089,892.5
+501116,Automotive,Brand_083,1322.83
+501117,Books,Brand_050,569.55
+501118,Sports & Fitness,Brand_056,3377.18
+501119,Beauty & Personal Care,Brand_014,631.37
+501120,Sports & Fitness,Brand_058,317.54
+501121,Grocery,Brand_068,607.08
+501122,Fashion,Brand_089,1468.74
+501123,Grocery,Brand_005,494.61
+501124,Electronics,Brand_087,1128.95
+501125,Beauty & Personal Care,Brand_052,1372.39
+501126,Office Supplies,Brand_009,363.47
+501127,Beauty & Personal Care,Brand_100,589.7
+501128,Books,Brand_047,1169.26
+501129,Fashion,Brand_042,1524.17
+501130,Office Supplies,Brand_020,600.83
+501131,Home & Kitchen,Brand_008,1008.5
+501132,Home & Kitchen,Brand_009,727.38
+501133,Toys & Games,Brand_027,1553.53
+501134,Books,Brand_030,1328.7
+501135,Sports & Fitness,Brand_047,680.13
+501136,Beauty & Personal Care,Brand_062,1288.49
+501137,Fashion,Brand_100,660.47
+501138,Office Supplies,Brand_080,1268.28
+501139,Books,Brand_049,1281.6
+501140,Office Supplies,Brand_092,5327.73
+501141,Office Supplies,Brand_056,699.38
+501142,Sports & Fitness,Brand_043,809.52
+501143,Sports & Fitness,Brand_022,553.89
+501144,Books,Brand_043,414.79
+501145,Toys & Games,Brand_005,639.09
+501146,Books,Brand_016,1482.11
+501147,Electronics,Brand_095,1564.76
+501148,Office Supplies,Brand_020,1123.44
+501149,Books,Brand_057,720.95
+501150,Toys & Games,Brand_011,621.64
+501151,Fashion,Brand_061,452.49
+501152,Fashion,Brand_098,592.72
+501153,Books,Brand_046,340.72
+501154,Grocery,Brand_013,2491.87
+501155,Electronics,Brand_003,3569.78
+501156,Fashion,Brand_076,210.71
+501157,Grocery,Brand_011,1118.05
+501158,Office Supplies,Brand_032,1104.24
+501159,Electronics,Brand_085,1052.58
+501160,Home & Kitchen,Brand_054,577.0
+501161,Fashion,Brand_088,1937.75
+501162,Home & Kitchen,Brand_088,1224.46
+501163,Electronics,Brand_067,1954.69
+501164,Fashion,Brand_094,517.63
+501165,Books,Brand_004,318.94
+501166,Fashion,Brand_025,1247.1
+501167,Beauty & Personal Care,Brand_028,437.11
+501168,Office Supplies,Brand_092,1984.94
+501169,Fashion,Brand_063,182.62
+501170,Grocery,Brand_026,633.33
+501171,Home & Kitchen,Brand_021,567.05
+501172,Toys & Games,Brand_081,701.42
+501173,Toys & Games,Brand_086,1094.68
+501174,Home & Kitchen,Brand_002,1211.45
+501175,Books,Brand_037,1454.18
+501176,Books,Brand_054,1585.47
+501177,Fashion,Brand_024,791.36
+501178,Grocery,Brand_073,4376.14
+501179,Beauty & Personal Care,Brand_076,2547.1
+501180,Fashion,Brand_084,712.23
+501181,Office Supplies,Brand_079,812.19
+501182,Home & Kitchen,Brand_085,701.07
+501183,Electronics,Brand_037,1181.89
+501184,Electronics,Brand_030,434.17
+501185,Office Supplies,Brand_032,497.82
+501186,Electronics,Brand_086,177.13
+501187,Home & Kitchen,Brand_065,667.41
+501188,Books,Brand_033,2000.12
+501189,Grocery,Brand_073,802.97
+501190,Fashion,Brand_024,837.38
+501191,Office Supplies,Brand_027,1108.78
+501192,Electronics,Brand_001,424.42
+501193,Books,Brand_097,917.23
+501194,Sports & Fitness,Brand_024,1754.86
+501195,Beauty & Personal Care,Brand_076,1132.65
+501196,Automotive,Brand_012,1874.35
+501197,Sports & Fitness,Brand_004,2322.72
+501198,Home & Kitchen,Brand_068,1479.32
+501199,Electronics,Brand_010,527.09
+501200,Electronics,Brand_015,695.27
+501201,Automotive,Brand_034,3831.5
+501202,Home & Kitchen,Brand_059,1139.13
+501203,Automotive,Brand_002,1030.82
+501204,Electronics,Brand_013,472.21
+501205,Office Supplies,Brand_034,840.33
+501206,Toys & Games,Brand_071,1540.21
+501207,Electronics,Brand_010,910.08
+501208,Electronics,Brand_029,609.64
+501209,Toys & Games,Brand_020,725.5
+501210,Electronics,Brand_031,2200.11
+501211,Home & Kitchen,Brand_026,1485.09
+501212,Toys & Games,Brand_065,1343.35
+501213,Automotive,Brand_007,1252.7
+501214,Grocery,Brand_094,370.6
+501215,Automotive,Brand_025,1103.96
+501216,Sports & Fitness,Brand_100,2005.0
+501217,Grocery,Brand_073,740.04
+501218,Beauty & Personal Care,Brand_036,1873.32
+501219,Grocery,Brand_031,1354.67
+501220,Books,Brand_095,1674.3
+501221,Sports & Fitness,Brand_100,935.05
+501222,Office Supplies,Brand_062,1749.94
+501223,Fashion,Brand_005,300.03
+501224,Sports & Fitness,Brand_091,922.65
+501225,Fashion,Brand_048,1536.34
+501226,Home & Kitchen,Brand_003,1123.97
+501227,Beauty & Personal Care,Brand_081,2046.96
+501228,Office Supplies,Brand_004,799.97
+501229,Beauty & Personal Care,Brand_038,596.93
+501230,Books,Brand_008,263.25
+501231,Sports & Fitness,Brand_044,733.38
+501232,Automotive,Brand_081,1326.17
+501233,Grocery,Brand_013,1592.64
+501234,Electronics,Brand_014,315.14
+501235,Beauty & Personal Care,Brand_096,2173.05
+501236,Grocery,Brand_018,433.36
+501237,Home & Kitchen,Brand_012,821.83
+501238,Fashion,Brand_059,587.44
+501239,Beauty & Personal Care,Brand_028,1230.69
+501240,Electronics,Brand_096,965.79
+501241,Office Supplies,Brand_017,1496.48
+501242,Office Supplies,Brand_057,3587.63
+501243,Grocery,Brand_093,1212.92
+501244,Home & Kitchen,Brand_074,583.99
+501245,Office Supplies,Brand_003,1271.81
+501246,Books,Brand_019,3870.93
+501247,Office Supplies,Brand_013,1472.4
+501248,Electronics,Brand_092,1829.26
+501249,Home & Kitchen,Brand_021,272.38
+501250,Books,Brand_006,1202.98
+501251,Automotive,Brand_039,736.11
+501252,Home & Kitchen,Brand_029,540.4
+501253,Beauty & Personal Care,Brand_017,885.06
+501254,Sports & Fitness,Brand_046,976.4
+501255,Office Supplies,Brand_091,563.46
+501256,Grocery,Brand_023,1036.64
+501257,Office Supplies,Brand_099,790.19
+501258,Books,Brand_067,1524.2
+501259,Automotive,Brand_039,1067.5
+501260,Fashion,Brand_068,1193.13
+501261,Electronics,Brand_035,1876.07
+501262,Grocery,Brand_022,1364.59
+501263,Sports & Fitness,Brand_024,895.9
+501264,Fashion,Brand_001,188.14
+501265,Home & Kitchen,Brand_065,1323.04
+501266,Grocery,Brand_008,454.16
+501267,Toys & Games,Brand_020,843.63
+501268,Beauty & Personal Care,Brand_001,1188.78
+501269,Office Supplies,Brand_007,2445.9
+501270,Beauty & Personal Care,Brand_091,3583.65
+501271,Electronics,Brand_003,451.01
+501272,Home & Kitchen,Brand_063,335.46
+501273,Fashion,Brand_033,1149.04
+501274,Electronics,Brand_014,1079.46
+501275,Grocery,Brand_030,365.4
+501276,Grocery,Brand_010,888.86
+501277,Sports & Fitness,Brand_032,1408.88
+501278,Automotive,Brand_082,357.73
+501279,Office Supplies,Brand_063,426.86
+501280,Fashion,Brand_082,555.17
+501281,Electronics,Brand_070,767.55
+501282,Home & Kitchen,Brand_093,1514.55
+501283,Books,Brand_011,704.53
+501284,Fashion,Brand_016,938.12
+501285,Books,Brand_042,4851.43
+501286,Books,Brand_053,439.29
+501287,Sports & Fitness,Brand_079,551.5
+501288,Electronics,Brand_013,1496.62
+501289,Home & Kitchen,Brand_012,1888.29
+501290,Beauty & Personal Care,Brand_080,1228.43
+501291,Toys & Games,Brand_055,3495.11
+501292,Books,Brand_042,1141.94
+501293,Books,Brand_023,204.45
+501294,Books,Brand_070,967.91
+501295,Fashion,Brand_081,586.49
+501296,Electronics,Brand_004,2540.85
+501297,Home & Kitchen,Brand_006,1855.41
+501298,Electronics,Brand_078,273.18
+501299,Electronics,Brand_089,2477.82
+501300,Beauty & Personal Care,Brand_023,1820.6
+501301,Grocery,Brand_071,705.6
+501302,Electronics,Brand_085,848.58
+501303,Electronics,Brand_012,2556.84
+501304,Electronics,Brand_019,205.15
+501305,Home & Kitchen,Brand_014,1256.95
+501306,Home & Kitchen,Brand_080,2043.57
+501307,Electronics,Brand_078,842.07
+501308,Home & Kitchen,Brand_014,1463.12
+501309,Office Supplies,Brand_018,972.39
+501310,Beauty & Personal Care,Brand_067,499.88
+501311,Home & Kitchen,Brand_090,490.6
+501312,Fashion,Brand_078,1535.09
+501313,Home & Kitchen,Brand_017,558.7
+501314,Sports & Fitness,Brand_039,286.85
+501315,Fashion,Brand_007,986.53
+501316,Automotive,Brand_025,612.52
+501317,Office Supplies,Brand_057,366.16
+501318,Grocery,Brand_035,949.76
+501319,Home & Kitchen,Brand_061,1600.15
+501320,Fashion,Brand_030,913.7
+501321,Beauty & Personal Care,Brand_057,404.53
+501322,Grocery,Brand_064,1291.74
+501323,Electronics,Brand_020,1956.21
+501324,Books,Brand_005,4732.32
+501325,Beauty & Personal Care,Brand_034,2653.88
+501326,Fashion,Brand_005,423.42
+501327,Beauty & Personal Care,Brand_016,1712.92
+501328,Beauty & Personal Care,Brand_029,1090.93
+501329,Books,Brand_034,379.3
+501330,Sports & Fitness,Brand_028,1113.48
+501331,Home & Kitchen,Brand_006,3794.86
+501332,Electronics,Brand_018,2206.79
+501333,Toys & Games,Brand_089,420.86
+501334,Fashion,Brand_072,909.31
+501335,Sports & Fitness,Brand_045,1301.34
+501336,Fashion,Brand_003,245.91
+501337,Sports & Fitness,Brand_036,252.35
+501338,Books,Brand_093,1010.67
+501339,Electronics,Brand_081,1020.61
+501340,Fashion,Brand_076,226.62
+501341,Fashion,Brand_025,1203.96
+501342,Electronics,Brand_041,2033.71
+501343,Grocery,Brand_003,764.08
+501344,Home & Kitchen,Brand_086,941.29
+501345,Electronics,Brand_012,1381.54
+501346,Toys & Games,Brand_062,1250.96
+501347,Toys & Games,Brand_029,257.48
+501348,Home & Kitchen,Brand_058,456.48
+501349,Books,Brand_083,668.81
+501350,Electronics,Brand_032,471.9
+501351,Grocery,Brand_002,2704.36
+501352,Fashion,Brand_067,1448.45
+501353,Grocery,Brand_054,391.55
+501354,Beauty & Personal Care,Brand_014,766.35
+501355,Beauty & Personal Care,Brand_005,2101.04
+501356,Toys & Games,Brand_053,554.31
+501357,Electronics,Brand_062,1704.59
+501358,Home & Kitchen,Brand_012,2539.64
+501359,Fashion,Brand_060,2240.6
+501360,Sports & Fitness,Brand_045,1030.4
+501361,Electronics,Brand_014,2300.0
+501362,Sports & Fitness,Brand_062,608.33
+501363,Beauty & Personal Care,Brand_065,5806.92
+501364,Books,Brand_016,1078.18
+501365,Automotive,Brand_068,2127.05
+501366,Fashion,Brand_023,686.01
+501367,Sports & Fitness,Brand_060,1308.92
+501368,Fashion,Brand_082,1352.88
+501369,Electronics,Brand_094,448.44
+501370,Grocery,Brand_026,438.59
+501371,Automotive,Brand_034,772.03
+501372,Toys & Games,Brand_010,2061.92
+501373,Office Supplies,Brand_097,227.88
+501374,Fashion,Brand_034,685.57
+501375,Books,Brand_081,2403.78
+501376,Home & Kitchen,Brand_094,357.2
+501377,Office Supplies,Brand_048,2304.96
+501378,Sports & Fitness,Brand_070,386.28
+501379,Home & Kitchen,Brand_048,452.59
+501380,Toys & Games,Brand_058,805.92
+501381,Sports & Fitness,Brand_025,3668.32
+501382,Office Supplies,Brand_085,556.9
+501383,Grocery,Brand_013,245.35
+501384,Automotive,Brand_067,314.49
+501385,Sports & Fitness,Brand_092,1810.5
+501386,Fashion,Brand_082,325.82
+501387,Grocery,Brand_076,2193.75
+501388,Electronics,Brand_066,948.36
+501389,Electronics,Brand_095,878.48
+501390,Office Supplies,Brand_087,1124.81
+501391,Automotive,Brand_028,493.59
+501392,Office Supplies,Brand_063,998.05
+501393,Electronics,Brand_043,367.82
+501394,Home & Kitchen,Brand_027,2475.17
+501395,Automotive,Brand_082,416.52
+501396,Electronics,Brand_005,1250.82
+501397,Fashion,Brand_013,414.19
+501398,Beauty & Personal Care,Brand_011,603.35
+501399,Automotive,Brand_021,679.95
+501400,Fashion,Brand_052,8420.34
+501401,Home & Kitchen,Brand_095,890.3
+501402,Fashion,Brand_098,486.02
+501403,Electronics,Brand_091,644.82
+501404,Grocery,Brand_076,291.17
+501405,Sports & Fitness,Brand_046,796.56
+501406,Sports & Fitness,Brand_078,3607.28
+501407,Fashion,Brand_027,1157.97
+501408,Home & Kitchen,Brand_067,1772.14
+501409,Electronics,Brand_001,454.84
+501410,Office Supplies,Brand_091,772.7
+501411,Fashion,Brand_098,1048.72
+501412,Fashion,Brand_074,522.39
+501413,Beauty & Personal Care,Brand_018,1214.88
+501414,Office Supplies,Brand_026,1427.91
+501415,Grocery,Brand_074,1352.26
+501416,Electronics,Brand_050,803.58
+501417,Sports & Fitness,Brand_055,2039.74
+501418,Fashion,Brand_041,741.88
+501419,Grocery,Brand_084,692.83
+501420,Office Supplies,Brand_017,2653.27
+501421,Grocery,Brand_045,392.36
+501422,Toys & Games,Brand_023,250.93
+501423,Fashion,Brand_070,469.44
+501424,Beauty & Personal Care,Brand_029,1203.3
+501425,Books,Brand_030,2356.87
+501426,Grocery,Brand_018,548.4
+501427,Home & Kitchen,Brand_087,3510.53
+501428,Fashion,Brand_022,918.55
+501429,Electronics,Brand_087,825.3
+501430,Home & Kitchen,Brand_092,475.77
+501431,Automotive,Brand_097,3889.01
+501432,Electronics,Brand_035,804.06
+501433,Toys & Games,Brand_066,331.43
+501434,Beauty & Personal Care,Brand_083,5685.34
+501435,Books,Brand_008,1209.12
+501436,Automotive,Brand_007,1638.47
+501437,Grocery,Brand_021,3176.59
+501438,Toys & Games,Brand_099,1426.87
+501439,Home & Kitchen,Brand_009,1869.75
+501440,Beauty & Personal Care,Brand_077,937.43
+501441,Grocery,Brand_084,1560.39
+501442,Grocery,Brand_091,877.24
+501443,Grocery,Brand_053,886.46
+501444,Grocery,Brand_053,984.55
+501445,Home & Kitchen,Brand_075,668.33
+501446,Home & Kitchen,Brand_064,1313.8
+501447,Office Supplies,Brand_079,1311.31
+501448,Sports & Fitness,Brand_037,1663.34
+501449,Grocery,Brand_094,1454.04
+501450,Sports & Fitness,Brand_044,4033.65
+501451,Office Supplies,Brand_025,1982.01
+501452,Toys & Games,Brand_076,770.44
+501453,Home & Kitchen,Brand_063,1264.2
+501454,Automotive,Brand_005,2596.5
+501455,Beauty & Personal Care,Brand_017,441.38
+501456,Fashion,Brand_004,4076.83
+501457,Toys & Games,Brand_058,503.42
+501458,Beauty & Personal Care,Brand_088,1767.99
+501459,Home & Kitchen,Brand_033,904.47
+501460,Books,Brand_012,866.27
+501461,Office Supplies,Brand_086,338.73
+501462,Electronics,Brand_073,1777.6
+501463,Grocery,Brand_055,342.45
+501464,Fashion,Brand_020,305.0
+501465,Fashion,Brand_068,2147.74
+501466,Grocery,Brand_037,3444.72
+501467,Sports & Fitness,Brand_025,545.64
+501468,Grocery,Brand_030,1909.75
+501469,Grocery,Brand_007,1635.64
+501470,Office Supplies,Brand_050,840.3
+501471,Toys & Games,Brand_076,2451.01
+501472,Electronics,Brand_083,796.06
+501473,Grocery,Brand_073,1326.83
+501474,Books,Brand_088,351.45
+501475,Electronics,Brand_097,362.9
+501476,Sports & Fitness,Brand_023,2162.84
+501477,Grocery,Brand_044,1360.76
+501478,Home & Kitchen,Brand_034,808.8
+501479,Fashion,Brand_069,3764.15
+501480,Sports & Fitness,Brand_084,3734.55
+501481,Fashion,Brand_089,1251.09
+501482,Automotive,Brand_009,302.07
+501483,Home & Kitchen,Brand_052,827.74
+501484,Grocery,Brand_012,482.01
+501485,Grocery,Brand_033,962.5
+501486,Fashion,Brand_048,445.93
+501487,Fashion,Brand_062,366.95
+501488,Electronics,Brand_080,164.92
+501489,Home & Kitchen,Brand_100,1020.29
+501490,Fashion,Brand_034,160.5
+501491,Home & Kitchen,Brand_056,707.84
+501492,Toys & Games,Brand_007,1515.03
+501493,Sports & Fitness,Brand_012,523.65
+501494,Electronics,Brand_097,398.92
+501495,Beauty & Personal Care,Brand_094,855.35
+501496,Toys & Games,Brand_094,483.45
+501497,Home & Kitchen,Brand_027,1034.46
+501498,Grocery,Brand_066,414.79
+501499,Electronics,Brand_023,832.16
+501500,Office Supplies,Brand_069,694.07
+501501,Fashion,Brand_049,892.26
+501502,Fashion,Brand_094,3067.93
+501503,Sports & Fitness,Brand_038,1045.5
+501504,Beauty & Personal Care,Brand_065,1313.86
+501505,Grocery,Brand_066,563.29
+501506,Electronics,Brand_079,1064.05
+501507,Home & Kitchen,Brand_006,732.37
+501508,Home & Kitchen,Brand_047,920.24
+501509,Books,Brand_046,1464.26
+501510,Automotive,Brand_023,618.45
+501511,Electronics,Brand_081,667.71
+501512,Toys & Games,Brand_084,624.9
+501513,Toys & Games,Brand_009,615.91
+501514,Electronics,Brand_069,1024.87
+501515,Electronics,Brand_087,684.99
+501516,Beauty & Personal Care,Brand_029,2767.95
+501517,Electronics,Brand_064,6712.77
+501518,Grocery,Brand_063,587.83
+501519,Fashion,Brand_002,1122.03
+501520,Fashion,Brand_082,1960.39
+501521,Grocery,Brand_076,737.36
+501522,Home & Kitchen,Brand_028,426.92
+501523,Automotive,Brand_032,3314.38
+501524,Books,Brand_077,1505.7
+501525,Beauty & Personal Care,Brand_081,1143.0
+501526,Fashion,Brand_008,2671.21
+501527,Home & Kitchen,Brand_036,1603.7
+501528,Office Supplies,Brand_063,868.22
+501529,Fashion,Brand_013,432.65
+501530,Automotive,Brand_100,621.66
+501531,Office Supplies,Brand_021,2221.66
+501532,Fashion,Brand_087,1501.11
+501533,Grocery,Brand_007,782.42
+501534,Sports & Fitness,Brand_088,3385.7
+501535,Electronics,Brand_005,799.89
+501536,Office Supplies,Brand_069,1887.55
+501537,Fashion,Brand_037,1061.48
+501538,Automotive,Brand_047,3835.71
+501539,Books,Brand_011,1583.16
+501540,Electronics,Brand_068,931.7
+501541,Fashion,Brand_063,787.05
+501542,Home & Kitchen,Brand_033,889.68
+501543,Home & Kitchen,Brand_048,522.35
+501544,Grocery,Brand_056,322.91
+501545,Electronics,Brand_069,1134.5
+501546,Office Supplies,Brand_054,603.2
+501547,Fashion,Brand_006,602.0
+501548,Fashion,Brand_055,841.99
+501549,Home & Kitchen,Brand_035,935.95
+501550,Electronics,Brand_042,904.99
+501551,Sports & Fitness,Brand_038,3314.68
+501552,Beauty & Personal Care,Brand_036,1479.09
+501553,Books,Brand_024,4373.23
+501554,Sports & Fitness,Brand_034,647.52
+501555,Home & Kitchen,Brand_072,1620.01
+501556,Fashion,Brand_023,675.08
+501557,Beauty & Personal Care,Brand_076,590.84
+501558,Home & Kitchen,Brand_044,4498.74
+501559,Grocery,Brand_062,505.87
+501560,Electronics,Brand_012,168.78
+501561,Home & Kitchen,Brand_021,529.24
+501562,Fashion,Brand_091,199.57
+501563,Fashion,Brand_084,440.94
+501564,Office Supplies,Brand_007,472.67
+501565,Toys & Games,Brand_091,924.13
+501566,Grocery,Brand_084,193.48
+501567,Fashion,Brand_014,2206.93
+501568,Fashion,Brand_025,220.43
+501569,Electronics,Brand_018,817.77
+501570,Toys & Games,Brand_086,705.76
+501571,Fashion,Brand_086,1671.38
+501572,Beauty & Personal Care,Brand_073,1171.51
+501573,Sports & Fitness,Brand_026,2191.96
+501574,Grocery,Brand_093,686.29
+501575,Fashion,Brand_085,635.13
+501576,Electronics,Brand_088,1226.58
+501577,Office Supplies,Brand_036,1947.49
+501578,Electronics,Brand_071,1671.03
+501579,Office Supplies,Brand_068,1145.68
+501580,Fashion,Brand_016,1071.58
+501581,Office Supplies,Brand_059,875.84
+501582,Automotive,Brand_055,1223.95
+501583,Fashion,Brand_059,4140.6
+501584,Toys & Games,Brand_034,750.29
+501585,Electronics,Brand_067,684.73
+501586,Electronics,Brand_089,646.52
+501587,Beauty & Personal Care,Brand_061,1205.23
+501588,Sports & Fitness,Brand_088,183.29
+501589,Electronics,Brand_078,813.3
+501590,Fashion,Brand_032,1742.16
+501591,Office Supplies,Brand_074,606.51
+501592,Toys & Games,Brand_068,1035.28
+501593,Home & Kitchen,Brand_095,4378.21
+501594,Fashion,Brand_034,1154.12
+501595,Home & Kitchen,Brand_017,167.83
+501596,Home & Kitchen,Brand_068,312.62
+501597,Office Supplies,Brand_064,745.57
+501598,Office Supplies,Brand_062,492.52
+501599,Home & Kitchen,Brand_074,972.56
+501600,Home & Kitchen,Brand_052,721.59
+501601,Beauty & Personal Care,Brand_004,2158.02
+501602,Fashion,Brand_088,396.98
+501603,Electronics,Brand_028,770.29
+501604,Electronics,Brand_025,1059.27
+501605,Fashion,Brand_082,1162.4
+501606,Home & Kitchen,Brand_080,1004.75
+501607,Toys & Games,Brand_051,147.52
+501608,Grocery,Brand_069,958.02
+501609,Fashion,Brand_009,803.78
+501610,Fashion,Brand_029,1720.68
+501611,Toys & Games,Brand_025,1547.85
+501612,Home & Kitchen,Brand_043,1078.18
+501613,Automotive,Brand_036,1138.27
+501614,Electronics,Brand_007,2481.66
+501615,Office Supplies,Brand_069,2132.64
+501616,Electronics,Brand_060,1106.43
+501617,Toys & Games,Brand_038,4498.32
+501618,Electronics,Brand_089,561.86
+501619,Toys & Games,Brand_037,369.93
+501620,Sports & Fitness,Brand_012,892.71
+501621,Electronics,Brand_085,679.96
+501622,Grocery,Brand_014,141.65
+501623,Electronics,Brand_008,551.76
+501624,Fashion,Brand_048,1164.54
+501625,Beauty & Personal Care,Brand_058,861.67
+501626,Grocery,Brand_029,502.73
+501627,Toys & Games,Brand_084,929.03
+501628,Fashion,Brand_028,987.03
+501629,Grocery,Brand_097,1538.71
+501630,Automotive,Brand_064,556.28
+501631,Books,Brand_019,1733.31
+501632,Beauty & Personal Care,Brand_042,397.19
+501633,Fashion,Brand_008,617.0
+501634,Home & Kitchen,Brand_085,3218.4
+501635,Fashion,Brand_065,417.58
+501636,Home & Kitchen,Brand_043,549.12
+501637,Toys & Games,Brand_068,351.62
+501638,Sports & Fitness,Brand_062,483.93
+501639,Books,Brand_060,998.41
+501640,Electronics,Brand_040,1528.9
+501641,Electronics,Brand_036,887.51
+501642,Grocery,Brand_026,705.48
+501643,Sports & Fitness,Brand_079,354.36
+501644,Office Supplies,Brand_048,521.68
+501645,Fashion,Brand_047,282.27
+501646,Home & Kitchen,Brand_073,1563.71
+501647,Books,Brand_054,1647.39
+501648,Grocery,Brand_096,873.11
+501649,Electronics,Brand_025,1253.23
+501650,Books,Brand_005,1736.4
+501651,Home & Kitchen,Brand_043,970.98
+501652,Home & Kitchen,Brand_054,2559.59
+501653,Electronics,Brand_083,417.61
+501654,Books,Brand_064,692.9
+501655,Grocery,Brand_094,633.71
+501656,Home & Kitchen,Brand_009,1462.38
+501657,Grocery,Brand_054,306.98
+501658,Grocery,Brand_083,2666.11
+501659,Fashion,Brand_051,1371.59
+501660,Electronics,Brand_028,3344.64
+501661,Home & Kitchen,Brand_077,873.03
+501662,Home & Kitchen,Brand_088,595.65
+501663,Office Supplies,Brand_026,1473.25
+501664,Toys & Games,Brand_056,1949.48
+501665,Electronics,Brand_081,526.67
+501666,Fashion,Brand_016,201.18
+501667,Home & Kitchen,Brand_002,228.77
+501668,Electronics,Brand_074,1094.92
+501669,Beauty & Personal Care,Brand_076,2857.03
+501670,Electronics,Brand_016,339.26
+501671,Home & Kitchen,Brand_060,733.71
+501672,Beauty & Personal Care,Brand_073,693.02
+501673,Fashion,Brand_097,3800.14
+501674,Fashion,Brand_081,4897.19
+501675,Fashion,Brand_022,1237.36
+501676,Beauty & Personal Care,Brand_058,1764.98
+501677,Fashion,Brand_074,1728.56
+501678,Fashion,Brand_028,344.52
+501679,Office Supplies,Brand_017,1519.73
+501680,Electronics,Brand_044,418.92
+501681,Sports & Fitness,Brand_072,791.35
+501682,Home & Kitchen,Brand_053,2115.82
+501683,Beauty & Personal Care,Brand_061,956.32
+501684,Sports & Fitness,Brand_067,2057.54
+501685,Grocery,Brand_096,2384.73
+501686,Office Supplies,Brand_064,240.98
+501687,Fashion,Brand_014,175.76
+501688,Home & Kitchen,Brand_041,2151.59
+501689,Grocery,Brand_017,2217.64
+501690,Home & Kitchen,Brand_076,1090.99
+501691,Fashion,Brand_100,1207.8
+501692,Toys & Games,Brand_078,1758.44
+501693,Fashion,Brand_025,1734.03
+501694,Sports & Fitness,Brand_070,716.41
+501695,Electronics,Brand_003,1843.24
+501696,Electronics,Brand_028,694.05
+501697,Office Supplies,Brand_031,1080.37
+501698,Home & Kitchen,Brand_047,1045.67
+501699,Beauty & Personal Care,Brand_033,472.39
+501700,Fashion,Brand_044,515.51
+501701,Beauty & Personal Care,Brand_001,4807.71
+501702,Electronics,Brand_082,461.04
+501703,Home & Kitchen,Brand_040,1187.81
+501704,Fashion,Brand_081,1390.26
+501705,Fashion,Brand_006,864.14
+501706,Grocery,Brand_087,1489.23
+501707,Beauty & Personal Care,Brand_063,1151.86
+501708,Office Supplies,Brand_024,468.58
+501709,Home & Kitchen,Brand_076,1346.16
+501710,Beauty & Personal Care,Brand_075,598.16
+501711,Office Supplies,Brand_073,3320.59
+501712,Toys & Games,Brand_088,1241.7
+501713,Beauty & Personal Care,Brand_096,532.34
+501714,Beauty & Personal Care,Brand_017,1163.41
+501715,Toys & Games,Brand_029,449.78
+501716,Electronics,Brand_004,1091.96
+501717,Home & Kitchen,Brand_007,759.85
+501718,Fashion,Brand_011,484.08
+501719,Toys & Games,Brand_070,479.53
+501720,Sports & Fitness,Brand_061,5589.22
+501721,Fashion,Brand_004,963.85
+501722,Office Supplies,Brand_043,651.05
+501723,Electronics,Brand_012,571.75
+501724,Grocery,Brand_020,1281.48
+501725,Electronics,Brand_006,557.53
+501726,Grocery,Brand_053,396.01
+501727,Sports & Fitness,Brand_009,878.38
+501728,Home & Kitchen,Brand_079,873.42
+501729,Sports & Fitness,Brand_094,658.27
+501730,Automotive,Brand_086,461.24
+501731,Fashion,Brand_083,671.27
+501732,Electronics,Brand_076,632.81
+501733,Electronics,Brand_092,570.28
+501734,Books,Brand_089,1107.4
+501735,Books,Brand_022,4779.38
+501736,Fashion,Brand_061,2443.58
+501737,Home & Kitchen,Brand_031,3861.59
+501738,Grocery,Brand_084,587.94
+501739,Beauty & Personal Care,Brand_002,3160.26
+501740,Electronics,Brand_042,1067.26
+501741,Fashion,Brand_038,1885.91
+501742,Fashion,Brand_086,1268.6
+501743,Office Supplies,Brand_030,695.72
+501744,Sports & Fitness,Brand_090,1543.82
+501745,Home & Kitchen,Brand_050,1294.78
+501746,Toys & Games,Brand_069,238.95
+501747,Home & Kitchen,Brand_054,820.0
+501748,Office Supplies,Brand_044,1731.42
+501749,Beauty & Personal Care,Brand_031,1108.17
+501750,Automotive,Brand_029,1279.85
+501751,Automotive,Brand_065,512.26
+501752,Toys & Games,Brand_033,1090.68
+501753,Electronics,Brand_087,837.26
+501754,Toys & Games,Brand_014,772.63
+501755,Grocery,Brand_022,540.75
+501756,Beauty & Personal Care,Brand_005,1787.44
+501757,Fashion,Brand_087,1166.19
+501758,Books,Brand_042,1081.18
+501759,Office Supplies,Brand_004,4190.11
+501760,Grocery,Brand_005,1284.01
+501761,Fashion,Brand_092,2214.47
+501762,Books,Brand_089,1104.44
+501763,Home & Kitchen,Brand_028,690.57
+501764,Fashion,Brand_065,406.69
+501765,Grocery,Brand_026,1078.62
+501766,Sports & Fitness,Brand_085,122.09
+501767,Grocery,Brand_072,1104.06
+501768,Fashion,Brand_045,1140.18
+501769,Beauty & Personal Care,Brand_093,764.5
+501770,Grocery,Brand_023,839.76
+501771,Electronics,Brand_100,352.14
+501772,Office Supplies,Brand_030,2544.27
+501773,Office Supplies,Brand_089,698.86
+501774,Automotive,Brand_086,434.12
+501775,Automotive,Brand_057,1354.1
+501776,Fashion,Brand_013,977.95
+501777,Fashion,Brand_076,687.9
+501778,Toys & Games,Brand_070,635.47
+501779,Home & Kitchen,Brand_087,896.2
+501780,Toys & Games,Brand_023,2469.46
+501781,Home & Kitchen,Brand_024,1279.92
+501782,Automotive,Brand_036,877.07
+501783,Sports & Fitness,Brand_037,1705.68
+501784,Toys & Games,Brand_001,918.78
+501785,Fashion,Brand_016,1216.29
+501786,Sports & Fitness,Brand_048,1008.02
+501787,Office Supplies,Brand_097,1400.7
+501788,Fashion,Brand_013,645.02
+501789,Home & Kitchen,Brand_025,382.94
+501790,Electronics,Brand_086,1776.73
+501791,Sports & Fitness,Brand_004,2782.46
+501792,Sports & Fitness,Brand_010,396.82
+501793,Books,Brand_089,1029.54
+501794,Electronics,Brand_026,642.74
+501795,Electronics,Brand_031,1745.73
+501796,Automotive,Brand_002,1082.88
+501797,Books,Brand_041,10916.15
+501798,Electronics,Brand_100,717.89
+501799,Electronics,Brand_099,2850.83
+501800,Home & Kitchen,Brand_065,3066.73
+501801,Toys & Games,Brand_068,1342.91
+501802,Grocery,Brand_065,925.38
+501803,Books,Brand_070,966.35
+501804,Books,Brand_052,906.91
+501805,Toys & Games,Brand_021,2105.63
+501806,Beauty & Personal Care,Brand_087,467.74
+501807,Beauty & Personal Care,Brand_088,797.64
+501808,Fashion,Brand_015,728.33
+501809,Office Supplies,Brand_010,246.6
+501810,Sports & Fitness,Brand_080,1713.99
+501811,Sports & Fitness,Brand_005,1997.37
+501812,Toys & Games,Brand_081,559.33
+501813,Home & Kitchen,Brand_099,1948.85
+501814,Fashion,Brand_004,274.42
+501815,Books,Brand_080,916.32
+501816,Office Supplies,Brand_014,818.69
+501817,Electronics,Brand_030,961.22
+501818,Fashion,Brand_055,957.48
+501819,Automotive,Brand_069,849.47
+501820,Grocery,Brand_010,672.88
+501821,Sports & Fitness,Brand_011,829.53
+501822,Home & Kitchen,Brand_029,2501.91
+501823,Home & Kitchen,Brand_069,583.1
+501824,Beauty & Personal Care,Brand_041,4884.88
+501825,Home & Kitchen,Brand_028,558.93
+501826,Toys & Games,Brand_016,1077.54
+501827,Grocery,Brand_097,1381.33
+501828,Toys & Games,Brand_071,723.12
+501829,Home & Kitchen,Brand_099,2538.09
+501830,Beauty & Personal Care,Brand_050,1354.66
+501831,Grocery,Brand_082,771.79
+501832,Home & Kitchen,Brand_064,2517.05
+501833,Electronics,Brand_053,420.22
+501834,Beauty & Personal Care,Brand_048,588.92
+501835,Home & Kitchen,Brand_051,1372.41
+501836,Electronics,Brand_042,1641.71
+501837,Beauty & Personal Care,Brand_064,1146.38
+501838,Automotive,Brand_050,818.11
+501839,Electronics,Brand_098,745.32
+501840,Sports & Fitness,Brand_090,2102.63
+501841,Sports & Fitness,Brand_047,1077.81
+501842,Fashion,Brand_040,467.88
+501843,Fashion,Brand_076,448.08
+501844,Electronics,Brand_065,2800.32
+501845,Electronics,Brand_024,524.96
+501846,Fashion,Brand_084,1104.27
+501847,Office Supplies,Brand_069,2478.91
+501848,Fashion,Brand_063,1351.51
+501849,Fashion,Brand_079,509.87
+501850,Office Supplies,Brand_023,420.16
+501851,Grocery,Brand_080,3658.51
+501852,Grocery,Brand_013,412.21
+501853,Fashion,Brand_080,594.33
+501854,Automotive,Brand_060,1190.08
+501855,Sports & Fitness,Brand_059,763.75
+501856,Books,Brand_073,1384.02
+501857,Grocery,Brand_032,299.34
+501858,Fashion,Brand_077,768.62
+501859,Office Supplies,Brand_003,1496.17
+501860,Office Supplies,Brand_070,1499.97
+501861,Sports & Fitness,Brand_080,585.84
+501862,Home & Kitchen,Brand_001,418.26
+501863,Grocery,Brand_070,1056.46
+501864,Beauty & Personal Care,Brand_078,336.31
+501865,Sports & Fitness,Brand_053,2358.07
+501866,Electronics,Brand_061,1012.78
+501867,Toys & Games,Brand_006,533.67
+501868,Office Supplies,Brand_099,408.1
+501869,Electronics,Brand_097,559.81
+501870,Grocery,Brand_077,278.93
+501871,Toys & Games,Brand_002,1304.37
+501872,Electronics,Brand_044,492.88
+501873,Home & Kitchen,Brand_082,1214.57
+501874,Beauty & Personal Care,Brand_068,1346.89
+501875,Toys & Games,Brand_091,1857.33
+501876,Fashion,Brand_062,1087.11
+501877,Electronics,Brand_072,2092.93
+501878,Home & Kitchen,Brand_034,2545.23
+501879,Fashion,Brand_082,1092.32
+501880,Electronics,Brand_054,1142.86
+501881,Books,Brand_081,592.46
+501882,Electronics,Brand_021,429.09
+501883,Grocery,Brand_027,2354.19
+501884,Grocery,Brand_009,1417.57
+501885,Toys & Games,Brand_068,1506.46
+501886,Electronics,Brand_074,577.88
+501887,Sports & Fitness,Brand_029,3042.2
+501888,Grocery,Brand_039,758.19
+501889,Fashion,Brand_057,493.25
+501890,Electronics,Brand_076,585.31
+501891,Electronics,Brand_031,2924.24
+501892,Sports & Fitness,Brand_049,391.16
+501893,Fashion,Brand_019,512.37
+501894,Office Supplies,Brand_081,7913.11
+501895,Toys & Games,Brand_088,1822.88
+501896,Grocery,Brand_074,519.36
+501897,Office Supplies,Brand_082,399.94
+501898,Books,Brand_077,256.69
+501899,Electronics,Brand_084,968.0
+501900,Electronics,Brand_043,1553.72
+501901,Toys & Games,Brand_021,2811.56
+501902,Beauty & Personal Care,Brand_097,217.44
+501903,Office Supplies,Brand_001,333.07
+501904,Electronics,Brand_041,822.82
+501905,Home & Kitchen,Brand_073,7281.9
+501906,Grocery,Brand_080,1749.04
+501907,Toys & Games,Brand_069,1190.34
+501908,Toys & Games,Brand_049,359.14
+501909,Electronics,Brand_093,183.54
+501910,Beauty & Personal Care,Brand_024,926.61
+501911,Books,Brand_015,835.36
+501912,Automotive,Brand_063,736.23
+501913,Home & Kitchen,Brand_033,676.59
+501914,Sports & Fitness,Brand_047,513.44
+501915,Electronics,Brand_046,432.32
+501916,Grocery,Brand_027,2551.73
+501917,Electronics,Brand_100,462.89
+501918,Office Supplies,Brand_039,731.64
+501919,Electronics,Brand_068,874.01
+501920,Books,Brand_016,1528.6
+501921,Grocery,Brand_100,475.1
+501922,Home & Kitchen,Brand_099,1874.22
+501923,Home & Kitchen,Brand_007,582.68
+501924,Sports & Fitness,Brand_065,797.09
+501925,Books,Brand_060,3086.27
+501926,Grocery,Brand_018,435.06
+501927,Sports & Fitness,Brand_077,1545.45
+501928,Home & Kitchen,Brand_077,1911.9
+501929,Office Supplies,Brand_085,1135.49
+501930,Home & Kitchen,Brand_061,824.06
+501931,Sports & Fitness,Brand_071,4432.3
+501932,Office Supplies,Brand_073,890.7
+501933,Automotive,Brand_077,1048.85
+501934,Home & Kitchen,Brand_059,699.24
+501935,Home & Kitchen,Brand_075,1007.98
+501936,Sports & Fitness,Brand_007,1854.71
+501937,Beauty & Personal Care,Brand_062,732.1
+501938,Grocery,Brand_021,185.12
+501939,Fashion,Brand_041,1322.89
+501940,Home & Kitchen,Brand_077,400.87
+501941,Fashion,Brand_012,1569.95
+501942,Books,Brand_076,899.11
+501943,Grocery,Brand_026,1825.71
+501944,Beauty & Personal Care,Brand_076,441.92
+501945,Electronics,Brand_077,602.43
+501946,Beauty & Personal Care,Brand_002,697.41
+501947,Books,Brand_024,296.1
+501948,Grocery,Brand_081,2071.36
+501949,Automotive,Brand_035,265.96
+501950,Office Supplies,Brand_044,2049.56
+501951,Fashion,Brand_002,1237.31
+501952,Automotive,Brand_070,775.3
+501953,Home & Kitchen,Brand_010,1165.88
+501954,Sports & Fitness,Brand_028,1142.18
+501955,Fashion,Brand_048,666.52
+501956,Grocery,Brand_077,1125.53
+501957,Grocery,Brand_050,1557.41
+501958,Home & Kitchen,Brand_099,443.14
+501959,Automotive,Brand_053,1166.82
+501960,Automotive,Brand_026,125.54
+501961,Office Supplies,Brand_020,211.71
+501962,Fashion,Brand_079,1374.42
+501963,Office Supplies,Brand_046,657.88
+501964,Grocery,Brand_061,474.53
+501965,Books,Brand_038,864.91
+501966,Fashion,Brand_028,668.76
+501967,Toys & Games,Brand_060,428.78
+501968,Grocery,Brand_030,263.25
+501969,Sports & Fitness,Brand_100,205.67
+501970,Office Supplies,Brand_074,1566.33
+501971,Home & Kitchen,Brand_082,655.58
+501972,Books,Brand_029,1862.28
+501973,Beauty & Personal Care,Brand_003,650.61
+501974,Fashion,Brand_005,1174.53
+501975,Beauty & Personal Care,Brand_086,819.21
+501976,Beauty & Personal Care,Brand_088,930.51
+501977,Beauty & Personal Care,Brand_068,965.04
+501978,Electronics,Brand_059,644.27
+501979,Electronics,Brand_021,357.87
+501980,Grocery,Brand_076,1598.78
+501981,Beauty & Personal Care,Brand_052,2973.68
+501982,Electronics,Brand_061,3123.8
+501983,Electronics,Brand_003,594.33
+501984,Home & Kitchen,Brand_052,519.32
+501985,Electronics,Brand_070,593.88
+501986,Office Supplies,Brand_077,788.8
+501987,Sports & Fitness,Brand_015,865.28
+501988,Beauty & Personal Care,Brand_004,425.79
+501989,Fashion,Brand_086,296.66
+501990,Electronics,Brand_032,934.35
+501991,Grocery,Brand_048,99.0
+501992,Office Supplies,Brand_063,834.56
+501993,Electronics,Brand_050,443.12
+501994,Electronics,Brand_095,1615.68
+501995,Books,Brand_085,1974.6
+501996,Electronics,Brand_040,2009.88
+501997,Electronics,Brand_020,694.06
+501998,Books,Brand_098,384.15
+501999,Sports & Fitness,Brand_071,488.55
+502000,Home & Kitchen,Brand_076,1116.67
