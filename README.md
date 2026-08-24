@@ -17,6 +17,8 @@ Approximate size:
 
 Intended workflow: SQL → Python/Pandas → Power BI/DAX.
 
+---
+
 # 🧹 Data Preparation
 
 The dataset was prepared for analysis through the following steps:
@@ -27,6 +29,8 @@ The dataset was prepared for analysis through the following steps:
 - Prepared customer-level analytical data
 - Created calculated metrics for customer analysis
 - Prepared the final dataset for Power BI reporting
+
+---
 
 
 ## 📌 Project Overview
@@ -553,5 +557,6 @@ The dashboard uses business metrics to measure customer and revenue performance.
 ## 👤 Author
 
 Tushar Sharma
-Aspiring Data Analyst#   c u s t o m e r - 3 6 0 - c l v - a n a l y t i c s  
+Aspiring Data Analyst#   c u s t o m e r - 3 6 0 - c l v - a n a l y t i c s 
+ 
  
