@@ -96,7 +96,7 @@ The following tools were used in this project:
 ---
 
 ## Dashboard Preview
-![Customer 360 CLV Dashboard](screenshots/customer_360_clv_dashboard.png)
+![Dashboard Preview](screenshots/customer_360_clv_dashboard.png)
 
 ---
 
