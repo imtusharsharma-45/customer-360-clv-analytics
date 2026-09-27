@@ -96,7 +96,9 @@ The following tools were used in this project:
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/customer_360_clv_dashboard.png)
+![Customer 360 CLV Analytics Dashboard](screenshots/customer_360_clv_dashboard.png)
+
+*Dashboard shows real-time KPIs, customer segments, revenue distribution, and acquisition trends*
 
 ---
 
