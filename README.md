@@ -308,24 +308,36 @@ Focus on:
 
 # 6️⃣ Customer Acquisition Trend
 
-The dashboard tracks customer acquisition over time.
+## Monthly Breakdown
 
-### Quarterly Trend
-
-| Quarter | Customers Acquired |
+| Month | Customers Acquired |
 |---|---:|
-| Q1 | 2.6K |
-| Q2 | 2.6K |
-| Q3 | 1.8K |
-| Q4 | 1.7K |
+| January | 922 |
+| February | 792 |
+| March | 916 |
+| **Q1 Total** | **2,630** |
+| April | 919 |
+| May | 881 |
+| June | 801 |
+| **Q2 Total** | **2,601** |
+| July | 634 |
+| August | 613 |
+| September | 600 |
+| **Q3 Total** | **1,847** |
+| October | 590 |
+| November | 579 |
+| December | 538 |
+| **Q4 Total** | **1,707** |
 
-### Key Finding
+### 📊 Quarterly Summary
+- Q1: 2.6K
+- Q2: 2.6K  
+- Q3: 1.8K
+- Q4: 1.7K
 
-📉 Customer acquisition remains stable during Q1 and Q2 but declines significantly during Q3 and Q4.
-
-The trend moves approximately from:
-
-**2.6K → 2.6K → 1.8K → 1.7K**
+### 🔍 Key Insight
+📉 **Peak drop: May→June** (81 customers, -8.8%)  
+📉 **Biggest overall decline: June→July** (201 customers, -25%)
 
 ### Business Recommendation
 
